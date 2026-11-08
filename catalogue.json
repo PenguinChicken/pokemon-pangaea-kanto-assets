@@ -1,0 +1,27 @@
+{
+  "total": 1150,
+  "categories": {
+    "character": 881,
+    "pokemon": 116,
+    "misc": 153
+  },
+  "bundled_sheets": {
+    "player_sprite.png": "3\u00d74 walking sheet (down/left/right/up \u00d7 walk1/idle/walk2). 48\u00d7128px.",
+    "npc_sprites.png": "8 NPC characters side by side, each 16\u00d732px. 128\u00d732px.",
+    "tileset.png": "14 tiles left-to-right: Grass, Path, Tree, Water, Flowers, Wall, Door, Floor, Counter, Tall Grass, Rock, Ledge, Sign, Stairs. 224\u00d716px.",
+    "pokemon_strip.png": "First 20 Pok\u00e9mon sprites, each 16\u00d724px. 320\u00d724px."
+  },
+  "individual_sprites": {
+    "characters": "881 sprites in assets/characters/char_0000.png \u2013 char_0880.png (16\u00d724px each)",
+    "pokemon": "116 sprites in assets/pokemon/poke_0000.png \u2013 poke_0115.png (16\u00d724px each)",
+    "misc": "153 sprites in assets/misc/misc_0000.png \u2013 misc_0152.png (16\u00d724px each)"
+  },
+  "transparency": "Orange (255,127,39) replaced with alpha=0 on all extracted sprites.",
+  "notes": [
+    "Characters extracted from rows 0-84 of Characters section (y=42\u20132188).",
+    "Pok\u00e9mon extracted from Pok\u00e9mon section (y=2219\u20132492).",
+    "Misc sprites from Miscellaneous section (y=2518\u20132893).",
+    "Sprites with no non-transparent pixels were skipped.",
+    "Animation: each row of the Characters section likely represents one character direction group; groups of 3 columns form walk cycle (walk1/idle/walk2)."
+  ]
+}
