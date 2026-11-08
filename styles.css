@@ -1,0 +1,62 @@
+/* Pokémon World Expansion — Stage 3 styles */
+*{box-sizing:border-box;margin:0;padding:0}
+:root{color-scheme:dark;--bg:#101820;--panel:#192630;--text:#eef5f3;--muted:#a9b9bd;--accent:#9bd66f;--border:#344954}
+body{margin:0;min-height:100vh;padding:24px 16px;background:radial-gradient(circle at 20% 0%,#263c43,var(--bg) 55%);color:var(--text);font-family:system-ui,-apple-system,Segoe UI,sans-serif}
+.app{max-width:1280px;margin:0 auto}
+/* Top bar */
+.topbar{display:flex;justify-content:space-between;align-items:center;gap:20px;margin-bottom:20px}
+.eyebrow{color:var(--accent);letter-spacing:.16em;font-size:.7rem;font-weight:800;margin:0 0 4px}
+h1{font-size:clamp(1.4rem,4vw,2.2rem)}
+.status{color:var(--muted);font-size:.82rem;white-space:nowrap}
+.status-dot{display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--accent);margin-right:6px}
+/* Layout */
+.game-layout{display:grid;grid-template-columns:minmax(0,1.6fr) minmax(280px,.85fr);gap:16px;align-items:start}
+.game-panel,.side-panel{background:rgba(25,38,48,.96);border:1px solid var(--border);border-radius:14px;padding:16px;box-shadow:0 16px 40px #0005}
+/* Canvas */
+.screen-frame{background:#080e12;padding:10px;border:2px solid #52656b;border-radius:10px}
+canvas{display:block;width:100%;height:auto;aspect-ratio:320/224;image-rendering:pixelated;background:#77b85b;cursor:default}
+canvas.editing{cursor:crosshair}
+/* Controls row */
+.game-controls{display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:space-between;padding-top:12px}
+.control-hint{display:flex;flex-direction:column;gap:2px;font-size:.78rem}
+.control-hint span,.muted,.tiny{color:var(--muted)}
+/* Buttons */
+button,.upload-button{display:inline-block;border:1px solid #66834e;background:#314b2b;color:var(--text);border-radius:8px;padding:8px 11px;font-weight:700;cursor:pointer;font-size:.8rem;transition:background .15s}
+button:hover,.upload-button:hover{background:#426438}
+.secondary-button{background:#293943;border-color:#52656b}
+.secondary-button:hover{background:#334a56}
+.danger-button{background:#5a2020;border-color:#804040}
+.danger-button:hover{background:#7a2a2a}
+/* Readouts */
+h2{margin:0 0 8px;font-size:1.05rem}
+h3{font-size:.9rem;margin:16px 0 8px;color:var(--accent)}
+.readout{display:flex;justify-content:space-between;gap:10px;padding:7px 0;border-bottom:1px solid var(--border);font-size:.8rem}
+.readout-label{color:var(--muted)}
+.side-panel p{font-size:.82rem;line-height:1.45}
+/* Sections */
+section{margin-top:16px;padding-top:14px;border-top:1px solid var(--border)}
+.sprite-preview-wrap{min-height:60px;display:flex;align-items:center;justify-content:center;padding:8px;background:#101a20;border:1px dashed #52656b;border-radius:8px;margin:6px 0}
+#sprite-preview{max-width:100%;max-height:100px;image-rendering:pixelated;object-fit:contain}
+/* Upload inputs hidden */
+#sprite-upload,#tileset-upload,#import-map{position:absolute;width:1px;height:1px;opacity:0;pointer-events:none}
+/* Map editor */
+.section-heading{display:flex;align-items:center;justify-content:space-between;gap:10px}
+.switch{display:flex;align-items:center;gap:6px;font-size:.8rem;cursor:pointer}
+.switch input{width:34px;height:18px;accent-color:var(--accent)}
+#edit-map{width:100%;margin:6px 0;background:#1e3040;border:1px solid var(--border);color:var(--text);padding:5px 8px;border-radius:6px;font-size:.8rem}
+.tile-palette{display:flex;flex-wrap:wrap;gap:4px;margin:8px 0}
+.editor-actions{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+/* Key grid */
+.key-grid{display:grid;grid-template-columns:repeat(3,32px);gap:4px;justify-content:center}
+kbd{display:grid;place-items:center;height:28px;border:1px solid #61737b;border-radius:5px;background:#263640;font:700 .8rem system-ui}
+/* Save row */
+.save-row{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-top:10px}
+#save-status{color:var(--accent);font-size:.78rem}
+/* Footer */
+footer{color:#819399;text-align:center;font-size:.72rem;padding:18px 0 4px}
+/* Responsive */
+@media(max-width:780px){
+  body{padding:14px 10px}
+  .topbar{flex-direction:column;align-items:flex-start}
+  .game-layout{grid-template-columns:1fr}
+}

@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Pokémon World Expansion — Stage 3</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="app">
+  <div class="topbar">
+    <div>
+      <p class="eyebrow">BROWSER GAME PROTOTYPE · STAGE 3</p>
+      <h1>Pokémon World Expansion</h1>
+    </div>
+    <div class="status"><span class="status-dot"></span>Kanto region · full world network</div>
+  </div>
+
+  <div class="game-layout">
+    <!-- Left: game canvas -->
+    <div class="game-panel">
+      <div class="screen-frame">
+        <canvas id="game" aria-label="Pokémon game world"></canvas>
+      </div>
+      <div class="game-controls">
+        <div class="control-hint">
+          <span>Arrow keys / WASD to move</span>
+          <span>Space / Enter to interact</span>
+        </div>
+        <div class="key-grid" aria-hidden="true">
+          <span></span><kbd>▲</kbd><span></span>
+          <kbd>◀</kbd><kbd>▼</kbd><kbd>▶</kbd>
+        </div>
+      </div>
+    </div>
+
+    <!-- Right: info + controls -->
+    <div class="side-panel">
+      <h2>World Info</h2>
+      <div class="readout"><span class="readout-label">Current map</span>  <strong id="player-map">—</strong></div>
+      <div class="readout"><span class="readout-label">Coordinates</span>  <strong id="player-pos">—</strong></div>
+      <div class="readout"><span class="readout-label">Facing</span>       <strong id="player-dir">—</strong></div>
+      <div class="readout"><span class="readout-label">Nearby exits</span> <strong id="nearby-maps">—</strong></div>
+
+      <section>
+        <h3>Save &amp; Progress</h3>
+        <p class="muted tiny">Auto-saves every 5 s. Persists after refresh.</p>
+        <div class="save-row">
+          <button id="btn-save" type="button">Save now</button>
+          <button id="btn-newgame" type="button" class="danger-button">New game</button>
+          <span id="save-status"></span>
+        </div>
+      </section>
+
+      <section class="sprite-section">
+        <h3>Player sprite</h3>
+        <p class="muted tiny">PNG, 3 col × 4 row. Rows: Down, Left, Right, Up. Frames 16×32 px.</p>
+        <label class="upload-button" for="sprite-upload">Choose sprite PNG</label>
+        <input id="sprite-upload" type="file" accept="image/png">
+        <div class="sprite-preview-wrap">
+          <img id="sprite-preview" alt="" style="display:none">
+          <span id="sprite-placeholder" class="muted tiny">No sprite loaded — using built-in placeholder.</span>
+        </div>
+        <p id="sprite-status" class="tiny muted"></p>
+      </section>
+
+      <section class="asset-section">
+        <h3>Tileset</h3>
+        <p class="muted tiny">PNG tilesheet, 16×16 tiles L→R: Grass, Path, Tree, Water, Flowers, Wall, Door, Floor, Counter, Tall Grass, Rock, Ledge, Sign, Stairs.</p>
+        <label class="upload-button" for="tileset-upload">Choose tileset PNG</label>
+        <input id="tileset-upload" type="file" accept="image/png">
+        <button id="clear-tileset" class="secondary-button" type="button">Use built-in tiles</button>
+        <p id="tileset-status" class="tiny muted">Built-in placeholder tiles active.</p>
+      </section>
+
+      <section class="editor-section">
+        <div class="section-heading">
+          <h3>Map editor</h3>
+          <label class="switch">
+            <input id="edit-mode" type="checkbox">
+            <span>Edit mode</span>
+          </label>
+        </div>
+        <p class="tiny muted">Select a tile, then click the canvas to paint.</p>
+        <label class="tiny" for="edit-map">Active map</label>
+        <select id="edit-map"></select>
+        <div class="tile-palette" id="tile-palette"></div>
+        <div class="editor-actions">
+          <button id="export-map" type="button">Export map JSON</button>
+          <button id="export-world" type="button" class="secondary-button">Export all maps</button>
+          <label class="upload-button" for="import-map">Import JSON</label>
+          <input id="import-map" type="file" accept="application/json,.json">
+        </div>
+        <p id="editor-status" class="tiny muted" style="margin-top:6px">Editor is off.</p>
+      </section>
+
+      <section>
+        <h3>Controls</h3>
+        <div class="readout"><span class="readout-label">Move</span>     <span>WASD / Arrows</span></div>
+        <div class="readout"><span class="readout-label">Interact</span> <span>Space / Enter</span></div>
+        <div class="readout"><span class="readout-label">Doors</span>    <span>Walk into or interact</span></div>
+        <div class="readout"><span class="readout-label">Exits</span>    <span>Walk to map edge</span></div>
+      </section>
+    </div>
+  </div>
+
+  <footer>Stage 3 · Kanto network · Map editor · NPC dialogue · IndexedDB saving</footer>
+</div>
+
+<!-- Script load order: maps → subsystems → game -->
+<script src="js/maps.js"></script>
+<script src="js/assetLoader.js"></script>
+<script src="js/dialogue.js"></script>
+<script src="js/npcs.js"></script>
+<script src="js/transitions.js"></script>
+<script src="js/saveSystem.js"></script>
+<script src="js/mapEditor.js"></script>
+<script src="js/game.js"></script>
+
+<script>
+document.getElementById('sprite-upload').addEventListener('change', function(e) {
+  const f = e.target.files[0];
+  if (!f) return;
+  const url = URL.createObjectURL(f);
+  const img = document.getElementById('sprite-preview');
+  img.src = url; img.style.display = 'block';
+  document.getElementById('sprite-placeholder').style.display = 'none';
+});
+</script>
+</body>
+</html>

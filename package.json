@@ -1,0 +1,10 @@
+{
+  "name": "pokemon-world-expansion-stage3",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "servor . index.html 8080 --reload"
+  },
+  "dependencies": {
+    "servor": "^4.0.2"
+  }
+}
