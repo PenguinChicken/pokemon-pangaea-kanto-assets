@@ -1,0 +1,9814 @@
+[
+  {
+    "id": "char_0000",
+    "file": "assets/characters/char_0000.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 0,
+    "col": 0
+  },
+  {
+    "id": "char_0001",
+    "file": "assets/characters/char_0001.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 0,
+    "col": 1
+  },
+  {
+    "id": "char_0002",
+    "file": "assets/characters/char_0002.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 0,
+    "col": 2
+  },
+  {
+    "id": "char_0003",
+    "file": "assets/characters/char_0003.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 0,
+    "col": 3
+  },
+  {
+    "id": "char_0004",
+    "file": "assets/characters/char_0004.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 0,
+    "col": 4
+  },
+  {
+    "id": "char_0005",
+    "file": "assets/characters/char_0005.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 0,
+    "col": 5
+  },
+  {
+    "id": "char_0006",
+    "file": "assets/characters/char_0006.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 0,
+    "col": 6
+  },
+  {
+    "id": "char_0007",
+    "file": "assets/characters/char_0007.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 0,
+    "col": 7
+  },
+  {
+    "id": "char_0008",
+    "file": "assets/characters/char_0008.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 0,
+    "col": 8
+  },
+  {
+    "id": "char_0009",
+    "file": "assets/characters/char_0009.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 0,
+    "col": 9
+  },
+  {
+    "id": "char_0010",
+    "file": "assets/characters/char_0010.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 0,
+    "col": 10
+  },
+  {
+    "id": "char_0011",
+    "file": "assets/characters/char_0011.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 0,
+    "col": 11
+  },
+  {
+    "id": "char_0012",
+    "file": "assets/characters/char_0012.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 1,
+    "col": 0
+  },
+  {
+    "id": "char_0013",
+    "file": "assets/characters/char_0013.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 1,
+    "col": 1
+  },
+  {
+    "id": "char_0014",
+    "file": "assets/characters/char_0014.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 1,
+    "col": 2
+  },
+  {
+    "id": "char_0015",
+    "file": "assets/characters/char_0015.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 1,
+    "col": 3
+  },
+  {
+    "id": "char_0016",
+    "file": "assets/characters/char_0016.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 1,
+    "col": 4
+  },
+  {
+    "id": "char_0017",
+    "file": "assets/characters/char_0017.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 1,
+    "col": 5
+  },
+  {
+    "id": "char_0018",
+    "file": "assets/characters/char_0018.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 1,
+    "col": 6
+  },
+  {
+    "id": "char_0019",
+    "file": "assets/characters/char_0019.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 1,
+    "col": 7
+  },
+  {
+    "id": "char_0020",
+    "file": "assets/characters/char_0020.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 1,
+    "col": 8
+  },
+  {
+    "id": "char_0021",
+    "file": "assets/characters/char_0021.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 1,
+    "col": 9
+  },
+  {
+    "id": "char_0022",
+    "file": "assets/characters/char_0022.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 1,
+    "col": 10
+  },
+  {
+    "id": "char_0023",
+    "file": "assets/characters/char_0023.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 1,
+    "col": 11
+  },
+  {
+    "id": "char_0024",
+    "file": "assets/characters/char_0024.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 2,
+    "col": 0
+  },
+  {
+    "id": "char_0025",
+    "file": "assets/characters/char_0025.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 2,
+    "col": 1
+  },
+  {
+    "id": "char_0026",
+    "file": "assets/characters/char_0026.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 2,
+    "col": 2
+  },
+  {
+    "id": "char_0027",
+    "file": "assets/characters/char_0027.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 2,
+    "col": 3
+  },
+  {
+    "id": "char_0028",
+    "file": "assets/characters/char_0028.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 2,
+    "col": 4
+  },
+  {
+    "id": "char_0029",
+    "file": "assets/characters/char_0029.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 2,
+    "col": 5
+  },
+  {
+    "id": "char_0030",
+    "file": "assets/characters/char_0030.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 2,
+    "col": 6
+  },
+  {
+    "id": "char_0031",
+    "file": "assets/characters/char_0031.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 2,
+    "col": 7
+  },
+  {
+    "id": "char_0032",
+    "file": "assets/characters/char_0032.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 2,
+    "col": 8
+  },
+  {
+    "id": "char_0033",
+    "file": "assets/characters/char_0033.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 2,
+    "col": 9
+  },
+  {
+    "id": "char_0034",
+    "file": "assets/characters/char_0034.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 2,
+    "col": 10
+  },
+  {
+    "id": "char_0035",
+    "file": "assets/characters/char_0035.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 2,
+    "col": 11
+  },
+  {
+    "id": "char_0036",
+    "file": "assets/characters/char_0036.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 3,
+    "col": 0
+  },
+  {
+    "id": "char_0037",
+    "file": "assets/characters/char_0037.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 3,
+    "col": 1
+  },
+  {
+    "id": "char_0038",
+    "file": "assets/characters/char_0038.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 3,
+    "col": 2
+  },
+  {
+    "id": "char_0039",
+    "file": "assets/characters/char_0039.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 3,
+    "col": 3
+  },
+  {
+    "id": "char_0040",
+    "file": "assets/characters/char_0040.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 3,
+    "col": 4
+  },
+  {
+    "id": "char_0041",
+    "file": "assets/characters/char_0041.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 3,
+    "col": 5
+  },
+  {
+    "id": "char_0042",
+    "file": "assets/characters/char_0042.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 3,
+    "col": 6
+  },
+  {
+    "id": "char_0043",
+    "file": "assets/characters/char_0043.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 3,
+    "col": 7
+  },
+  {
+    "id": "char_0044",
+    "file": "assets/characters/char_0044.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 3,
+    "col": 8
+  },
+  {
+    "id": "char_0045",
+    "file": "assets/characters/char_0045.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 3,
+    "col": 9
+  },
+  {
+    "id": "char_0046",
+    "file": "assets/characters/char_0046.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 3,
+    "col": 10
+  },
+  {
+    "id": "char_0047",
+    "file": "assets/characters/char_0047.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 3,
+    "col": 11
+  },
+  {
+    "id": "char_0048",
+    "file": "assets/characters/char_0048.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 4,
+    "col": 0
+  },
+  {
+    "id": "char_0049",
+    "file": "assets/characters/char_0049.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 4,
+    "col": 1
+  },
+  {
+    "id": "char_0050",
+    "file": "assets/characters/char_0050.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 4,
+    "col": 2
+  },
+  {
+    "id": "char_0051",
+    "file": "assets/characters/char_0051.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 4,
+    "col": 3
+  },
+  {
+    "id": "char_0052",
+    "file": "assets/characters/char_0052.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 5,
+    "col": 0
+  },
+  {
+    "id": "char_0053",
+    "file": "assets/characters/char_0053.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 5,
+    "col": 1
+  },
+  {
+    "id": "char_0054",
+    "file": "assets/characters/char_0054.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 5,
+    "col": 2
+  },
+  {
+    "id": "char_0055",
+    "file": "assets/characters/char_0055.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 5,
+    "col": 3
+  },
+  {
+    "id": "char_0056",
+    "file": "assets/characters/char_0056.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 5,
+    "col": 4
+  },
+  {
+    "id": "char_0057",
+    "file": "assets/characters/char_0057.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 5,
+    "col": 5
+  },
+  {
+    "id": "char_0058",
+    "file": "assets/characters/char_0058.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 5,
+    "col": 6
+  },
+  {
+    "id": "char_0059",
+    "file": "assets/characters/char_0059.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 5,
+    "col": 7
+  },
+  {
+    "id": "char_0060",
+    "file": "assets/characters/char_0060.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 5,
+    "col": 8
+  },
+  {
+    "id": "char_0061",
+    "file": "assets/characters/char_0061.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 5,
+    "col": 9
+  },
+  {
+    "id": "char_0062",
+    "file": "assets/characters/char_0062.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 5,
+    "col": 10
+  },
+  {
+    "id": "char_0063",
+    "file": "assets/characters/char_0063.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 5,
+    "col": 11
+  },
+  {
+    "id": "char_0064",
+    "file": "assets/characters/char_0064.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 6,
+    "col": 0
+  },
+  {
+    "id": "char_0065",
+    "file": "assets/characters/char_0065.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 6,
+    "col": 1
+  },
+  {
+    "id": "char_0066",
+    "file": "assets/characters/char_0066.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 6,
+    "col": 2
+  },
+  {
+    "id": "char_0067",
+    "file": "assets/characters/char_0067.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 6,
+    "col": 3
+  },
+  {
+    "id": "char_0068",
+    "file": "assets/characters/char_0068.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 6,
+    "col": 4
+  },
+  {
+    "id": "char_0069",
+    "file": "assets/characters/char_0069.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 6,
+    "col": 5
+  },
+  {
+    "id": "char_0070",
+    "file": "assets/characters/char_0070.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 6,
+    "col": 6
+  },
+  {
+    "id": "char_0071",
+    "file": "assets/characters/char_0071.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 6,
+    "col": 7
+  },
+  {
+    "id": "char_0072",
+    "file": "assets/characters/char_0072.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 6,
+    "col": 8
+  },
+  {
+    "id": "char_0073",
+    "file": "assets/characters/char_0073.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 6,
+    "col": 9
+  },
+  {
+    "id": "char_0074",
+    "file": "assets/characters/char_0074.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 6,
+    "col": 10
+  },
+  {
+    "id": "char_0075",
+    "file": "assets/characters/char_0075.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 6,
+    "col": 11
+  },
+  {
+    "id": "char_0076",
+    "file": "assets/characters/char_0076.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 7,
+    "col": 0
+  },
+  {
+    "id": "char_0077",
+    "file": "assets/characters/char_0077.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 7,
+    "col": 1
+  },
+  {
+    "id": "char_0078",
+    "file": "assets/characters/char_0078.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 7,
+    "col": 2
+  },
+  {
+    "id": "char_0079",
+    "file": "assets/characters/char_0079.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 7,
+    "col": 3
+  },
+  {
+    "id": "char_0080",
+    "file": "assets/characters/char_0080.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 7,
+    "col": 4
+  },
+  {
+    "id": "char_0081",
+    "file": "assets/characters/char_0081.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 7,
+    "col": 5
+  },
+  {
+    "id": "char_0082",
+    "file": "assets/characters/char_0082.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 7,
+    "col": 6
+  },
+  {
+    "id": "char_0083",
+    "file": "assets/characters/char_0083.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 7,
+    "col": 7
+  },
+  {
+    "id": "char_0084",
+    "file": "assets/characters/char_0084.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 7,
+    "col": 8
+  },
+  {
+    "id": "char_0085",
+    "file": "assets/characters/char_0085.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 7,
+    "col": 9
+  },
+  {
+    "id": "char_0086",
+    "file": "assets/characters/char_0086.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 7,
+    "col": 10
+  },
+  {
+    "id": "char_0087",
+    "file": "assets/characters/char_0087.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 7,
+    "col": 11
+  },
+  {
+    "id": "char_0088",
+    "file": "assets/characters/char_0088.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 8,
+    "col": 0
+  },
+  {
+    "id": "char_0089",
+    "file": "assets/characters/char_0089.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 8,
+    "col": 1
+  },
+  {
+    "id": "char_0090",
+    "file": "assets/characters/char_0090.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 8,
+    "col": 2
+  },
+  {
+    "id": "char_0091",
+    "file": "assets/characters/char_0091.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 8,
+    "col": 3
+  },
+  {
+    "id": "char_0092",
+    "file": "assets/characters/char_0092.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 8,
+    "col": 4
+  },
+  {
+    "id": "char_0093",
+    "file": "assets/characters/char_0093.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 8,
+    "col": 5
+  },
+  {
+    "id": "char_0094",
+    "file": "assets/characters/char_0094.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 8,
+    "col": 6
+  },
+  {
+    "id": "char_0095",
+    "file": "assets/characters/char_0095.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 8,
+    "col": 7
+  },
+  {
+    "id": "char_0096",
+    "file": "assets/characters/char_0096.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 8,
+    "col": 8
+  },
+  {
+    "id": "char_0097",
+    "file": "assets/characters/char_0097.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 8,
+    "col": 9
+  },
+  {
+    "id": "char_0098",
+    "file": "assets/characters/char_0098.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 8,
+    "col": 10
+  },
+  {
+    "id": "char_0099",
+    "file": "assets/characters/char_0099.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 8,
+    "col": 11
+  },
+  {
+    "id": "char_0100",
+    "file": "assets/characters/char_0100.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 9,
+    "col": 0
+  },
+  {
+    "id": "char_0101",
+    "file": "assets/characters/char_0101.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 9,
+    "col": 1
+  },
+  {
+    "id": "char_0102",
+    "file": "assets/characters/char_0102.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 9,
+    "col": 2
+  },
+  {
+    "id": "char_0103",
+    "file": "assets/characters/char_0103.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 9,
+    "col": 3
+  },
+  {
+    "id": "char_0104",
+    "file": "assets/characters/char_0104.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 9,
+    "col": 4
+  },
+  {
+    "id": "char_0105",
+    "file": "assets/characters/char_0105.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 9,
+    "col": 5
+  },
+  {
+    "id": "char_0106",
+    "file": "assets/characters/char_0106.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 9,
+    "col": 6
+  },
+  {
+    "id": "char_0107",
+    "file": "assets/characters/char_0107.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 9,
+    "col": 7
+  },
+  {
+    "id": "char_0108",
+    "file": "assets/characters/char_0108.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 9,
+    "col": 8
+  },
+  {
+    "id": "char_0109",
+    "file": "assets/characters/char_0109.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 9,
+    "col": 9
+  },
+  {
+    "id": "char_0110",
+    "file": "assets/characters/char_0110.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 9,
+    "col": 10
+  },
+  {
+    "id": "char_0111",
+    "file": "assets/characters/char_0111.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 9,
+    "col": 11
+  },
+  {
+    "id": "char_0112",
+    "file": "assets/characters/char_0112.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 10,
+    "col": 0
+  },
+  {
+    "id": "char_0113",
+    "file": "assets/characters/char_0113.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 10,
+    "col": 1
+  },
+  {
+    "id": "char_0114",
+    "file": "assets/characters/char_0114.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 10,
+    "col": 2
+  },
+  {
+    "id": "char_0115",
+    "file": "assets/characters/char_0115.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 10,
+    "col": 3
+  },
+  {
+    "id": "char_0116",
+    "file": "assets/characters/char_0116.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 10,
+    "col": 4
+  },
+  {
+    "id": "char_0117",
+    "file": "assets/characters/char_0117.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 10,
+    "col": 5
+  },
+  {
+    "id": "char_0118",
+    "file": "assets/characters/char_0118.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 10,
+    "col": 6
+  },
+  {
+    "id": "char_0119",
+    "file": "assets/characters/char_0119.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 10,
+    "col": 7
+  },
+  {
+    "id": "char_0120",
+    "file": "assets/characters/char_0120.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 10,
+    "col": 8
+  },
+  {
+    "id": "char_0121",
+    "file": "assets/characters/char_0121.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 10,
+    "col": 9
+  },
+  {
+    "id": "char_0122",
+    "file": "assets/characters/char_0122.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 10,
+    "col": 10
+  },
+  {
+    "id": "char_0123",
+    "file": "assets/characters/char_0123.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 10,
+    "col": 11
+  },
+  {
+    "id": "char_0124",
+    "file": "assets/characters/char_0124.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 11,
+    "col": 0
+  },
+  {
+    "id": "char_0125",
+    "file": "assets/characters/char_0125.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 11,
+    "col": 1
+  },
+  {
+    "id": "char_0126",
+    "file": "assets/characters/char_0126.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 11,
+    "col": 2
+  },
+  {
+    "id": "char_0127",
+    "file": "assets/characters/char_0127.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 11,
+    "col": 3
+  },
+  {
+    "id": "char_0128",
+    "file": "assets/characters/char_0128.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 11,
+    "col": 4
+  },
+  {
+    "id": "char_0129",
+    "file": "assets/characters/char_0129.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 11,
+    "col": 5
+  },
+  {
+    "id": "char_0130",
+    "file": "assets/characters/char_0130.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 11,
+    "col": 6
+  },
+  {
+    "id": "char_0131",
+    "file": "assets/characters/char_0131.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 11,
+    "col": 7
+  },
+  {
+    "id": "char_0132",
+    "file": "assets/characters/char_0132.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 11,
+    "col": 8
+  },
+  {
+    "id": "char_0133",
+    "file": "assets/characters/char_0133.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 11,
+    "col": 9
+  },
+  {
+    "id": "char_0134",
+    "file": "assets/characters/char_0134.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 11,
+    "col": 10
+  },
+  {
+    "id": "char_0135",
+    "file": "assets/characters/char_0135.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 11,
+    "col": 11
+  },
+  {
+    "id": "char_0136",
+    "file": "assets/characters/char_0136.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 12,
+    "col": 0
+  },
+  {
+    "id": "char_0137",
+    "file": "assets/characters/char_0137.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 12,
+    "col": 1
+  },
+  {
+    "id": "char_0138",
+    "file": "assets/characters/char_0138.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 12,
+    "col": 2
+  },
+  {
+    "id": "char_0139",
+    "file": "assets/characters/char_0139.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 12,
+    "col": 3
+  },
+  {
+    "id": "char_0140",
+    "file": "assets/characters/char_0140.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 13,
+    "col": 0
+  },
+  {
+    "id": "char_0141",
+    "file": "assets/characters/char_0141.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 13,
+    "col": 1
+  },
+  {
+    "id": "char_0142",
+    "file": "assets/characters/char_0142.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 13,
+    "col": 2
+  },
+  {
+    "id": "char_0143",
+    "file": "assets/characters/char_0143.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 13,
+    "col": 3
+  },
+  {
+    "id": "char_0144",
+    "file": "assets/characters/char_0144.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 14,
+    "col": 0
+  },
+  {
+    "id": "char_0145",
+    "file": "assets/characters/char_0145.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 14,
+    "col": 1
+  },
+  {
+    "id": "char_0146",
+    "file": "assets/characters/char_0146.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 14,
+    "col": 2
+  },
+  {
+    "id": "char_0147",
+    "file": "assets/characters/char_0147.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 14,
+    "col": 3
+  },
+  {
+    "id": "char_0148",
+    "file": "assets/characters/char_0148.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 15,
+    "col": 0
+  },
+  {
+    "id": "char_0149",
+    "file": "assets/characters/char_0149.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 15,
+    "col": 1
+  },
+  {
+    "id": "char_0150",
+    "file": "assets/characters/char_0150.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 15,
+    "col": 2
+  },
+  {
+    "id": "char_0151",
+    "file": "assets/characters/char_0151.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 15,
+    "col": 3
+  },
+  {
+    "id": "char_0152",
+    "file": "assets/characters/char_0152.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 16,
+    "col": 0
+  },
+  {
+    "id": "char_0153",
+    "file": "assets/characters/char_0153.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 16,
+    "col": 1
+  },
+  {
+    "id": "char_0154",
+    "file": "assets/characters/char_0154.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 16,
+    "col": 2
+  },
+  {
+    "id": "char_0155",
+    "file": "assets/characters/char_0155.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 16,
+    "col": 3
+  },
+  {
+    "id": "char_0156",
+    "file": "assets/characters/char_0156.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 17,
+    "col": 0
+  },
+  {
+    "id": "char_0157",
+    "file": "assets/characters/char_0157.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 17,
+    "col": 1
+  },
+  {
+    "id": "char_0158",
+    "file": "assets/characters/char_0158.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 17,
+    "col": 2
+  },
+  {
+    "id": "char_0159",
+    "file": "assets/characters/char_0159.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 17,
+    "col": 3
+  },
+  {
+    "id": "char_0160",
+    "file": "assets/characters/char_0160.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 17,
+    "col": 4
+  },
+  {
+    "id": "char_0161",
+    "file": "assets/characters/char_0161.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 17,
+    "col": 5
+  },
+  {
+    "id": "char_0162",
+    "file": "assets/characters/char_0162.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 17,
+    "col": 6
+  },
+  {
+    "id": "char_0163",
+    "file": "assets/characters/char_0163.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 17,
+    "col": 7
+  },
+  {
+    "id": "char_0164",
+    "file": "assets/characters/char_0164.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 17,
+    "col": 8
+  },
+  {
+    "id": "char_0165",
+    "file": "assets/characters/char_0165.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 17,
+    "col": 9
+  },
+  {
+    "id": "char_0166",
+    "file": "assets/characters/char_0166.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 17,
+    "col": 10
+  },
+  {
+    "id": "char_0167",
+    "file": "assets/characters/char_0167.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 17,
+    "col": 11
+  },
+  {
+    "id": "char_0168",
+    "file": "assets/characters/char_0168.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 18,
+    "col": 0
+  },
+  {
+    "id": "char_0169",
+    "file": "assets/characters/char_0169.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 18,
+    "col": 1
+  },
+  {
+    "id": "char_0170",
+    "file": "assets/characters/char_0170.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 18,
+    "col": 2
+  },
+  {
+    "id": "char_0171",
+    "file": "assets/characters/char_0171.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 18,
+    "col": 3
+  },
+  {
+    "id": "char_0172",
+    "file": "assets/characters/char_0172.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 18,
+    "col": 4
+  },
+  {
+    "id": "char_0173",
+    "file": "assets/characters/char_0173.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 18,
+    "col": 5
+  },
+  {
+    "id": "char_0174",
+    "file": "assets/characters/char_0174.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 18,
+    "col": 6
+  },
+  {
+    "id": "char_0175",
+    "file": "assets/characters/char_0175.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 18,
+    "col": 7
+  },
+  {
+    "id": "char_0176",
+    "file": "assets/characters/char_0176.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 18,
+    "col": 8
+  },
+  {
+    "id": "char_0177",
+    "file": "assets/characters/char_0177.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 18,
+    "col": 9
+  },
+  {
+    "id": "char_0178",
+    "file": "assets/characters/char_0178.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 18,
+    "col": 10
+  },
+  {
+    "id": "char_0179",
+    "file": "assets/characters/char_0179.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 18,
+    "col": 11
+  },
+  {
+    "id": "char_0180",
+    "file": "assets/characters/char_0180.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 19,
+    "col": 0
+  },
+  {
+    "id": "char_0181",
+    "file": "assets/characters/char_0181.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 19,
+    "col": 1
+  },
+  {
+    "id": "char_0182",
+    "file": "assets/characters/char_0182.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 19,
+    "col": 2
+  },
+  {
+    "id": "char_0183",
+    "file": "assets/characters/char_0183.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 19,
+    "col": 3
+  },
+  {
+    "id": "char_0184",
+    "file": "assets/characters/char_0184.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 19,
+    "col": 4
+  },
+  {
+    "id": "char_0185",
+    "file": "assets/characters/char_0185.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 19,
+    "col": 5
+  },
+  {
+    "id": "char_0186",
+    "file": "assets/characters/char_0186.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 19,
+    "col": 6
+  },
+  {
+    "id": "char_0187",
+    "file": "assets/characters/char_0187.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 19,
+    "col": 7
+  },
+  {
+    "id": "char_0188",
+    "file": "assets/characters/char_0188.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 19,
+    "col": 8
+  },
+  {
+    "id": "char_0189",
+    "file": "assets/characters/char_0189.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 19,
+    "col": 9
+  },
+  {
+    "id": "char_0190",
+    "file": "assets/characters/char_0190.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 19,
+    "col": 10
+  },
+  {
+    "id": "char_0191",
+    "file": "assets/characters/char_0191.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 19,
+    "col": 11
+  },
+  {
+    "id": "char_0192",
+    "file": "assets/characters/char_0192.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 20,
+    "col": 0
+  },
+  {
+    "id": "char_0193",
+    "file": "assets/characters/char_0193.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 20,
+    "col": 1
+  },
+  {
+    "id": "char_0194",
+    "file": "assets/characters/char_0194.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 20,
+    "col": 2
+  },
+  {
+    "id": "char_0195",
+    "file": "assets/characters/char_0195.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 20,
+    "col": 3
+  },
+  {
+    "id": "char_0196",
+    "file": "assets/characters/char_0196.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 20,
+    "col": 4
+  },
+  {
+    "id": "char_0197",
+    "file": "assets/characters/char_0197.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 20,
+    "col": 5
+  },
+  {
+    "id": "char_0198",
+    "file": "assets/characters/char_0198.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 20,
+    "col": 6
+  },
+  {
+    "id": "char_0199",
+    "file": "assets/characters/char_0199.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 20,
+    "col": 7
+  },
+  {
+    "id": "char_0200",
+    "file": "assets/characters/char_0200.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 20,
+    "col": 8
+  },
+  {
+    "id": "char_0201",
+    "file": "assets/characters/char_0201.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 20,
+    "col": 9
+  },
+  {
+    "id": "char_0202",
+    "file": "assets/characters/char_0202.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 20,
+    "col": 10
+  },
+  {
+    "id": "char_0203",
+    "file": "assets/characters/char_0203.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 20,
+    "col": 11
+  },
+  {
+    "id": "char_0204",
+    "file": "assets/characters/char_0204.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 21,
+    "col": 0
+  },
+  {
+    "id": "char_0205",
+    "file": "assets/characters/char_0205.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 21,
+    "col": 1
+  },
+  {
+    "id": "char_0206",
+    "file": "assets/characters/char_0206.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 21,
+    "col": 2
+  },
+  {
+    "id": "char_0207",
+    "file": "assets/characters/char_0207.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 21,
+    "col": 3
+  },
+  {
+    "id": "char_0208",
+    "file": "assets/characters/char_0208.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 21,
+    "col": 4
+  },
+  {
+    "id": "char_0209",
+    "file": "assets/characters/char_0209.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 21,
+    "col": 5
+  },
+  {
+    "id": "char_0210",
+    "file": "assets/characters/char_0210.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 21,
+    "col": 6
+  },
+  {
+    "id": "char_0211",
+    "file": "assets/characters/char_0211.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 21,
+    "col": 7
+  },
+  {
+    "id": "char_0212",
+    "file": "assets/characters/char_0212.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 21,
+    "col": 8
+  },
+  {
+    "id": "char_0213",
+    "file": "assets/characters/char_0213.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 21,
+    "col": 9
+  },
+  {
+    "id": "char_0214",
+    "file": "assets/characters/char_0214.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 21,
+    "col": 10
+  },
+  {
+    "id": "char_0215",
+    "file": "assets/characters/char_0215.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 21,
+    "col": 11
+  },
+  {
+    "id": "char_0216",
+    "file": "assets/characters/char_0216.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 22,
+    "col": 0
+  },
+  {
+    "id": "char_0217",
+    "file": "assets/characters/char_0217.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 22,
+    "col": 1
+  },
+  {
+    "id": "char_0218",
+    "file": "assets/characters/char_0218.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 22,
+    "col": 2
+  },
+  {
+    "id": "char_0219",
+    "file": "assets/characters/char_0219.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 22,
+    "col": 3
+  },
+  {
+    "id": "char_0220",
+    "file": "assets/characters/char_0220.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 22,
+    "col": 4
+  },
+  {
+    "id": "char_0221",
+    "file": "assets/characters/char_0221.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 22,
+    "col": 5
+  },
+  {
+    "id": "char_0222",
+    "file": "assets/characters/char_0222.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 22,
+    "col": 6
+  },
+  {
+    "id": "char_0223",
+    "file": "assets/characters/char_0223.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 22,
+    "col": 7
+  },
+  {
+    "id": "char_0224",
+    "file": "assets/characters/char_0224.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 22,
+    "col": 8
+  },
+  {
+    "id": "char_0225",
+    "file": "assets/characters/char_0225.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 22,
+    "col": 9
+  },
+  {
+    "id": "char_0226",
+    "file": "assets/characters/char_0226.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 22,
+    "col": 10
+  },
+  {
+    "id": "char_0227",
+    "file": "assets/characters/char_0227.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 22,
+    "col": 11
+  },
+  {
+    "id": "char_0228",
+    "file": "assets/characters/char_0228.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 23,
+    "col": 0
+  },
+  {
+    "id": "char_0229",
+    "file": "assets/characters/char_0229.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 23,
+    "col": 1
+  },
+  {
+    "id": "char_0230",
+    "file": "assets/characters/char_0230.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 23,
+    "col": 2
+  },
+  {
+    "id": "char_0231",
+    "file": "assets/characters/char_0231.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 23,
+    "col": 3
+  },
+  {
+    "id": "char_0232",
+    "file": "assets/characters/char_0232.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 23,
+    "col": 4
+  },
+  {
+    "id": "char_0233",
+    "file": "assets/characters/char_0233.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 23,
+    "col": 5
+  },
+  {
+    "id": "char_0234",
+    "file": "assets/characters/char_0234.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 23,
+    "col": 6
+  },
+  {
+    "id": "char_0235",
+    "file": "assets/characters/char_0235.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 23,
+    "col": 7
+  },
+  {
+    "id": "char_0236",
+    "file": "assets/characters/char_0236.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 23,
+    "col": 8
+  },
+  {
+    "id": "char_0237",
+    "file": "assets/characters/char_0237.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 23,
+    "col": 9
+  },
+  {
+    "id": "char_0238",
+    "file": "assets/characters/char_0238.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 23,
+    "col": 10
+  },
+  {
+    "id": "char_0239",
+    "file": "assets/characters/char_0239.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 23,
+    "col": 11
+  },
+  {
+    "id": "char_0240",
+    "file": "assets/characters/char_0240.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 24,
+    "col": 0
+  },
+  {
+    "id": "char_0241",
+    "file": "assets/characters/char_0241.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 24,
+    "col": 1
+  },
+  {
+    "id": "char_0242",
+    "file": "assets/characters/char_0242.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 24,
+    "col": 2
+  },
+  {
+    "id": "char_0243",
+    "file": "assets/characters/char_0243.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 24,
+    "col": 3
+  },
+  {
+    "id": "char_0244",
+    "file": "assets/characters/char_0244.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 24,
+    "col": 4
+  },
+  {
+    "id": "char_0245",
+    "file": "assets/characters/char_0245.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 24,
+    "col": 5
+  },
+  {
+    "id": "char_0246",
+    "file": "assets/characters/char_0246.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 24,
+    "col": 6
+  },
+  {
+    "id": "char_0247",
+    "file": "assets/characters/char_0247.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 24,
+    "col": 7
+  },
+  {
+    "id": "char_0248",
+    "file": "assets/characters/char_0248.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 24,
+    "col": 8
+  },
+  {
+    "id": "char_0249",
+    "file": "assets/characters/char_0249.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 24,
+    "col": 9
+  },
+  {
+    "id": "char_0250",
+    "file": "assets/characters/char_0250.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 24,
+    "col": 10
+  },
+  {
+    "id": "char_0251",
+    "file": "assets/characters/char_0251.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 24,
+    "col": 11
+  },
+  {
+    "id": "char_0252",
+    "file": "assets/characters/char_0252.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 25,
+    "col": 0
+  },
+  {
+    "id": "char_0253",
+    "file": "assets/characters/char_0253.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 25,
+    "col": 1
+  },
+  {
+    "id": "char_0254",
+    "file": "assets/characters/char_0254.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 25,
+    "col": 2
+  },
+  {
+    "id": "char_0255",
+    "file": "assets/characters/char_0255.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 25,
+    "col": 3
+  },
+  {
+    "id": "char_0256",
+    "file": "assets/characters/char_0256.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 25,
+    "col": 4
+  },
+  {
+    "id": "char_0257",
+    "file": "assets/characters/char_0257.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 25,
+    "col": 5
+  },
+  {
+    "id": "char_0258",
+    "file": "assets/characters/char_0258.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 25,
+    "col": 6
+  },
+  {
+    "id": "char_0259",
+    "file": "assets/characters/char_0259.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 25,
+    "col": 7
+  },
+  {
+    "id": "char_0260",
+    "file": "assets/characters/char_0260.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 25,
+    "col": 8
+  },
+  {
+    "id": "char_0261",
+    "file": "assets/characters/char_0261.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 25,
+    "col": 9
+  },
+  {
+    "id": "char_0262",
+    "file": "assets/characters/char_0262.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 25,
+    "col": 10
+  },
+  {
+    "id": "char_0263",
+    "file": "assets/characters/char_0263.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 25,
+    "col": 11
+  },
+  {
+    "id": "char_0264",
+    "file": "assets/characters/char_0264.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 26,
+    "col": 0
+  },
+  {
+    "id": "char_0265",
+    "file": "assets/characters/char_0265.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 26,
+    "col": 1
+  },
+  {
+    "id": "char_0266",
+    "file": "assets/characters/char_0266.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 27,
+    "col": 0
+  },
+  {
+    "id": "char_0267",
+    "file": "assets/characters/char_0267.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 27,
+    "col": 1
+  },
+  {
+    "id": "char_0268",
+    "file": "assets/characters/char_0268.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 27,
+    "col": 2
+  },
+  {
+    "id": "char_0269",
+    "file": "assets/characters/char_0269.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 27,
+    "col": 3
+  },
+  {
+    "id": "char_0270",
+    "file": "assets/characters/char_0270.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 27,
+    "col": 4
+  },
+  {
+    "id": "char_0271",
+    "file": "assets/characters/char_0271.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 27,
+    "col": 5
+  },
+  {
+    "id": "char_0272",
+    "file": "assets/characters/char_0272.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 27,
+    "col": 6
+  },
+  {
+    "id": "char_0273",
+    "file": "assets/characters/char_0273.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 27,
+    "col": 7
+  },
+  {
+    "id": "char_0274",
+    "file": "assets/characters/char_0274.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 27,
+    "col": 8
+  },
+  {
+    "id": "char_0275",
+    "file": "assets/characters/char_0275.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 27,
+    "col": 9
+  },
+  {
+    "id": "char_0276",
+    "file": "assets/characters/char_0276.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 27,
+    "col": 10
+  },
+  {
+    "id": "char_0277",
+    "file": "assets/characters/char_0277.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 27,
+    "col": 11
+  },
+  {
+    "id": "char_0278",
+    "file": "assets/characters/char_0278.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 28,
+    "col": 0
+  },
+  {
+    "id": "char_0279",
+    "file": "assets/characters/char_0279.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 28,
+    "col": 1
+  },
+  {
+    "id": "char_0280",
+    "file": "assets/characters/char_0280.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 28,
+    "col": 2
+  },
+  {
+    "id": "char_0281",
+    "file": "assets/characters/char_0281.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 28,
+    "col": 3
+  },
+  {
+    "id": "char_0282",
+    "file": "assets/characters/char_0282.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 28,
+    "col": 4
+  },
+  {
+    "id": "char_0283",
+    "file": "assets/characters/char_0283.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 28,
+    "col": 5
+  },
+  {
+    "id": "char_0284",
+    "file": "assets/characters/char_0284.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 28,
+    "col": 6
+  },
+  {
+    "id": "char_0285",
+    "file": "assets/characters/char_0285.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 28,
+    "col": 7
+  },
+  {
+    "id": "char_0286",
+    "file": "assets/characters/char_0286.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 28,
+    "col": 8
+  },
+  {
+    "id": "char_0287",
+    "file": "assets/characters/char_0287.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 28,
+    "col": 9
+  },
+  {
+    "id": "char_0288",
+    "file": "assets/characters/char_0288.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 28,
+    "col": 10
+  },
+  {
+    "id": "char_0289",
+    "file": "assets/characters/char_0289.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 28,
+    "col": 11
+  },
+  {
+    "id": "char_0290",
+    "file": "assets/characters/char_0290.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 29,
+    "col": 0
+  },
+  {
+    "id": "char_0291",
+    "file": "assets/characters/char_0291.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 29,
+    "col": 1
+  },
+  {
+    "id": "char_0292",
+    "file": "assets/characters/char_0292.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 29,
+    "col": 2
+  },
+  {
+    "id": "char_0293",
+    "file": "assets/characters/char_0293.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 29,
+    "col": 3
+  },
+  {
+    "id": "char_0294",
+    "file": "assets/characters/char_0294.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 29,
+    "col": 4
+  },
+  {
+    "id": "char_0295",
+    "file": "assets/characters/char_0295.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 29,
+    "col": 5
+  },
+  {
+    "id": "char_0296",
+    "file": "assets/characters/char_0296.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 29,
+    "col": 6
+  },
+  {
+    "id": "char_0297",
+    "file": "assets/characters/char_0297.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 29,
+    "col": 7
+  },
+  {
+    "id": "char_0298",
+    "file": "assets/characters/char_0298.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 29,
+    "col": 8
+  },
+  {
+    "id": "char_0299",
+    "file": "assets/characters/char_0299.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 29,
+    "col": 9
+  },
+  {
+    "id": "char_0300",
+    "file": "assets/characters/char_0300.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 29,
+    "col": 10
+  },
+  {
+    "id": "char_0301",
+    "file": "assets/characters/char_0301.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 29,
+    "col": 11
+  },
+  {
+    "id": "char_0302",
+    "file": "assets/characters/char_0302.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 30,
+    "col": 0
+  },
+  {
+    "id": "char_0303",
+    "file": "assets/characters/char_0303.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 30,
+    "col": 1
+  },
+  {
+    "id": "char_0304",
+    "file": "assets/characters/char_0304.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 30,
+    "col": 2
+  },
+  {
+    "id": "char_0305",
+    "file": "assets/characters/char_0305.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 30,
+    "col": 3
+  },
+  {
+    "id": "char_0306",
+    "file": "assets/characters/char_0306.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 30,
+    "col": 4
+  },
+  {
+    "id": "char_0307",
+    "file": "assets/characters/char_0307.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 30,
+    "col": 5
+  },
+  {
+    "id": "char_0308",
+    "file": "assets/characters/char_0308.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 30,
+    "col": 6
+  },
+  {
+    "id": "char_0309",
+    "file": "assets/characters/char_0309.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 30,
+    "col": 7
+  },
+  {
+    "id": "char_0310",
+    "file": "assets/characters/char_0310.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 30,
+    "col": 8
+  },
+  {
+    "id": "char_0311",
+    "file": "assets/characters/char_0311.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 30,
+    "col": 9
+  },
+  {
+    "id": "char_0312",
+    "file": "assets/characters/char_0312.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 30,
+    "col": 10
+  },
+  {
+    "id": "char_0313",
+    "file": "assets/characters/char_0313.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 30,
+    "col": 11
+  },
+  {
+    "id": "char_0314",
+    "file": "assets/characters/char_0314.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 31,
+    "col": 0
+  },
+  {
+    "id": "char_0315",
+    "file": "assets/characters/char_0315.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 31,
+    "col": 1
+  },
+  {
+    "id": "char_0316",
+    "file": "assets/characters/char_0316.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 31,
+    "col": 2
+  },
+  {
+    "id": "char_0317",
+    "file": "assets/characters/char_0317.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 31,
+    "col": 3
+  },
+  {
+    "id": "char_0318",
+    "file": "assets/characters/char_0318.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 31,
+    "col": 4
+  },
+  {
+    "id": "char_0319",
+    "file": "assets/characters/char_0319.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 31,
+    "col": 5
+  },
+  {
+    "id": "char_0320",
+    "file": "assets/characters/char_0320.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 31,
+    "col": 6
+  },
+  {
+    "id": "char_0321",
+    "file": "assets/characters/char_0321.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 31,
+    "col": 7
+  },
+  {
+    "id": "char_0322",
+    "file": "assets/characters/char_0322.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 31,
+    "col": 8
+  },
+  {
+    "id": "char_0323",
+    "file": "assets/characters/char_0323.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 31,
+    "col": 9
+  },
+  {
+    "id": "char_0324",
+    "file": "assets/characters/char_0324.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 31,
+    "col": 10
+  },
+  {
+    "id": "char_0325",
+    "file": "assets/characters/char_0325.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 31,
+    "col": 11
+  },
+  {
+    "id": "char_0326",
+    "file": "assets/characters/char_0326.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 32,
+    "col": 0
+  },
+  {
+    "id": "char_0327",
+    "file": "assets/characters/char_0327.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 32,
+    "col": 1
+  },
+  {
+    "id": "char_0328",
+    "file": "assets/characters/char_0328.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 32,
+    "col": 2
+  },
+  {
+    "id": "char_0329",
+    "file": "assets/characters/char_0329.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 32,
+    "col": 3
+  },
+  {
+    "id": "char_0330",
+    "file": "assets/characters/char_0330.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 32,
+    "col": 4
+  },
+  {
+    "id": "char_0331",
+    "file": "assets/characters/char_0331.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 32,
+    "col": 5
+  },
+  {
+    "id": "char_0332",
+    "file": "assets/characters/char_0332.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 32,
+    "col": 6
+  },
+  {
+    "id": "char_0333",
+    "file": "assets/characters/char_0333.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 32,
+    "col": 7
+  },
+  {
+    "id": "char_0334",
+    "file": "assets/characters/char_0334.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 32,
+    "col": 8
+  },
+  {
+    "id": "char_0335",
+    "file": "assets/characters/char_0335.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 32,
+    "col": 9
+  },
+  {
+    "id": "char_0336",
+    "file": "assets/characters/char_0336.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 32,
+    "col": 10
+  },
+  {
+    "id": "char_0337",
+    "file": "assets/characters/char_0337.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 32,
+    "col": 11
+  },
+  {
+    "id": "char_0338",
+    "file": "assets/characters/char_0338.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 33,
+    "col": 0
+  },
+  {
+    "id": "char_0339",
+    "file": "assets/characters/char_0339.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 33,
+    "col": 1
+  },
+  {
+    "id": "char_0340",
+    "file": "assets/characters/char_0340.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 33,
+    "col": 2
+  },
+  {
+    "id": "char_0341",
+    "file": "assets/characters/char_0341.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 33,
+    "col": 3
+  },
+  {
+    "id": "char_0342",
+    "file": "assets/characters/char_0342.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 33,
+    "col": 4
+  },
+  {
+    "id": "char_0343",
+    "file": "assets/characters/char_0343.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 33,
+    "col": 5
+  },
+  {
+    "id": "char_0344",
+    "file": "assets/characters/char_0344.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 33,
+    "col": 6
+  },
+  {
+    "id": "char_0345",
+    "file": "assets/characters/char_0345.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 33,
+    "col": 7
+  },
+  {
+    "id": "char_0346",
+    "file": "assets/characters/char_0346.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 33,
+    "col": 8
+  },
+  {
+    "id": "char_0347",
+    "file": "assets/characters/char_0347.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 33,
+    "col": 9
+  },
+  {
+    "id": "char_0348",
+    "file": "assets/characters/char_0348.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 33,
+    "col": 10
+  },
+  {
+    "id": "char_0349",
+    "file": "assets/characters/char_0349.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 33,
+    "col": 11
+  },
+  {
+    "id": "char_0350",
+    "file": "assets/characters/char_0350.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 34,
+    "col": 0
+  },
+  {
+    "id": "char_0351",
+    "file": "assets/characters/char_0351.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 34,
+    "col": 1
+  },
+  {
+    "id": "char_0352",
+    "file": "assets/characters/char_0352.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 34,
+    "col": 2
+  },
+  {
+    "id": "char_0353",
+    "file": "assets/characters/char_0353.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 34,
+    "col": 3
+  },
+  {
+    "id": "char_0354",
+    "file": "assets/characters/char_0354.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 34,
+    "col": 4
+  },
+  {
+    "id": "char_0355",
+    "file": "assets/characters/char_0355.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 34,
+    "col": 5
+  },
+  {
+    "id": "char_0356",
+    "file": "assets/characters/char_0356.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 34,
+    "col": 6
+  },
+  {
+    "id": "char_0357",
+    "file": "assets/characters/char_0357.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 34,
+    "col": 7
+  },
+  {
+    "id": "char_0358",
+    "file": "assets/characters/char_0358.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 34,
+    "col": 8
+  },
+  {
+    "id": "char_0359",
+    "file": "assets/characters/char_0359.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 34,
+    "col": 9
+  },
+  {
+    "id": "char_0360",
+    "file": "assets/characters/char_0360.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 34,
+    "col": 10
+  },
+  {
+    "id": "char_0361",
+    "file": "assets/characters/char_0361.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 34,
+    "col": 11
+  },
+  {
+    "id": "char_0362",
+    "file": "assets/characters/char_0362.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 35,
+    "col": 0
+  },
+  {
+    "id": "char_0363",
+    "file": "assets/characters/char_0363.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 35,
+    "col": 1
+  },
+  {
+    "id": "char_0364",
+    "file": "assets/characters/char_0364.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 35,
+    "col": 2
+  },
+  {
+    "id": "char_0365",
+    "file": "assets/characters/char_0365.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 35,
+    "col": 3
+  },
+  {
+    "id": "char_0366",
+    "file": "assets/characters/char_0366.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 35,
+    "col": 4
+  },
+  {
+    "id": "char_0367",
+    "file": "assets/characters/char_0367.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 35,
+    "col": 5
+  },
+  {
+    "id": "char_0368",
+    "file": "assets/characters/char_0368.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 35,
+    "col": 6
+  },
+  {
+    "id": "char_0369",
+    "file": "assets/characters/char_0369.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 35,
+    "col": 7
+  },
+  {
+    "id": "char_0370",
+    "file": "assets/characters/char_0370.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 35,
+    "col": 8
+  },
+  {
+    "id": "char_0371",
+    "file": "assets/characters/char_0371.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 35,
+    "col": 9
+  },
+  {
+    "id": "char_0372",
+    "file": "assets/characters/char_0372.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 35,
+    "col": 10
+  },
+  {
+    "id": "char_0373",
+    "file": "assets/characters/char_0373.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 35,
+    "col": 11
+  },
+  {
+    "id": "char_0374",
+    "file": "assets/characters/char_0374.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 36,
+    "col": 0
+  },
+  {
+    "id": "char_0375",
+    "file": "assets/characters/char_0375.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 36,
+    "col": 1
+  },
+  {
+    "id": "char_0376",
+    "file": "assets/characters/char_0376.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 36,
+    "col": 2
+  },
+  {
+    "id": "char_0377",
+    "file": "assets/characters/char_0377.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 36,
+    "col": 3
+  },
+  {
+    "id": "char_0378",
+    "file": "assets/characters/char_0378.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 36,
+    "col": 4
+  },
+  {
+    "id": "char_0379",
+    "file": "assets/characters/char_0379.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 36,
+    "col": 5
+  },
+  {
+    "id": "char_0380",
+    "file": "assets/characters/char_0380.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 36,
+    "col": 6
+  },
+  {
+    "id": "char_0381",
+    "file": "assets/characters/char_0381.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 36,
+    "col": 7
+  },
+  {
+    "id": "char_0382",
+    "file": "assets/characters/char_0382.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 36,
+    "col": 8
+  },
+  {
+    "id": "char_0383",
+    "file": "assets/characters/char_0383.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 36,
+    "col": 9
+  },
+  {
+    "id": "char_0384",
+    "file": "assets/characters/char_0384.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 36,
+    "col": 10
+  },
+  {
+    "id": "char_0385",
+    "file": "assets/characters/char_0385.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 36,
+    "col": 11
+  },
+  {
+    "id": "char_0386",
+    "file": "assets/characters/char_0386.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 37,
+    "col": 0
+  },
+  {
+    "id": "char_0387",
+    "file": "assets/characters/char_0387.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 37,
+    "col": 1
+  },
+  {
+    "id": "char_0388",
+    "file": "assets/characters/char_0388.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 37,
+    "col": 2
+  },
+  {
+    "id": "char_0389",
+    "file": "assets/characters/char_0389.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 37,
+    "col": 3
+  },
+  {
+    "id": "char_0390",
+    "file": "assets/characters/char_0390.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 37,
+    "col": 4
+  },
+  {
+    "id": "char_0391",
+    "file": "assets/characters/char_0391.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 37,
+    "col": 5
+  },
+  {
+    "id": "char_0392",
+    "file": "assets/characters/char_0392.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 37,
+    "col": 6
+  },
+  {
+    "id": "char_0393",
+    "file": "assets/characters/char_0393.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 37,
+    "col": 7
+  },
+  {
+    "id": "char_0394",
+    "file": "assets/characters/char_0394.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 37,
+    "col": 8
+  },
+  {
+    "id": "char_0395",
+    "file": "assets/characters/char_0395.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 37,
+    "col": 9
+  },
+  {
+    "id": "char_0396",
+    "file": "assets/characters/char_0396.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 37,
+    "col": 10
+  },
+  {
+    "id": "char_0397",
+    "file": "assets/characters/char_0397.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 37,
+    "col": 11
+  },
+  {
+    "id": "char_0398",
+    "file": "assets/characters/char_0398.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 38,
+    "col": 0
+  },
+  {
+    "id": "char_0399",
+    "file": "assets/characters/char_0399.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 38,
+    "col": 1
+  },
+  {
+    "id": "char_0400",
+    "file": "assets/characters/char_0400.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 38,
+    "col": 2
+  },
+  {
+    "id": "char_0401",
+    "file": "assets/characters/char_0401.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 38,
+    "col": 3
+  },
+  {
+    "id": "char_0402",
+    "file": "assets/characters/char_0402.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 38,
+    "col": 4
+  },
+  {
+    "id": "char_0403",
+    "file": "assets/characters/char_0403.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 38,
+    "col": 5
+  },
+  {
+    "id": "char_0404",
+    "file": "assets/characters/char_0404.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 38,
+    "col": 6
+  },
+  {
+    "id": "char_0405",
+    "file": "assets/characters/char_0405.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 38,
+    "col": 7
+  },
+  {
+    "id": "char_0406",
+    "file": "assets/characters/char_0406.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 38,
+    "col": 8
+  },
+  {
+    "id": "char_0407",
+    "file": "assets/characters/char_0407.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 38,
+    "col": 9
+  },
+  {
+    "id": "char_0408",
+    "file": "assets/characters/char_0408.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 38,
+    "col": 10
+  },
+  {
+    "id": "char_0409",
+    "file": "assets/characters/char_0409.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 38,
+    "col": 11
+  },
+  {
+    "id": "char_0410",
+    "file": "assets/characters/char_0410.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 39,
+    "col": 0
+  },
+  {
+    "id": "char_0411",
+    "file": "assets/characters/char_0411.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 39,
+    "col": 1
+  },
+  {
+    "id": "char_0412",
+    "file": "assets/characters/char_0412.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 39,
+    "col": 2
+  },
+  {
+    "id": "char_0413",
+    "file": "assets/characters/char_0413.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 39,
+    "col": 3
+  },
+  {
+    "id": "char_0414",
+    "file": "assets/characters/char_0414.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 39,
+    "col": 4
+  },
+  {
+    "id": "char_0415",
+    "file": "assets/characters/char_0415.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 39,
+    "col": 5
+  },
+  {
+    "id": "char_0416",
+    "file": "assets/characters/char_0416.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 39,
+    "col": 6
+  },
+  {
+    "id": "char_0417",
+    "file": "assets/characters/char_0417.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 39,
+    "col": 7
+  },
+  {
+    "id": "char_0418",
+    "file": "assets/characters/char_0418.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 39,
+    "col": 8
+  },
+  {
+    "id": "char_0419",
+    "file": "assets/characters/char_0419.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 39,
+    "col": 9
+  },
+  {
+    "id": "char_0420",
+    "file": "assets/characters/char_0420.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 39,
+    "col": 10
+  },
+  {
+    "id": "char_0421",
+    "file": "assets/characters/char_0421.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 39,
+    "col": 11
+  },
+  {
+    "id": "char_0422",
+    "file": "assets/characters/char_0422.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 40,
+    "col": 0
+  },
+  {
+    "id": "char_0423",
+    "file": "assets/characters/char_0423.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 40,
+    "col": 1
+  },
+  {
+    "id": "char_0424",
+    "file": "assets/characters/char_0424.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 40,
+    "col": 2
+  },
+  {
+    "id": "char_0425",
+    "file": "assets/characters/char_0425.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 40,
+    "col": 3
+  },
+  {
+    "id": "char_0426",
+    "file": "assets/characters/char_0426.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 40,
+    "col": 4
+  },
+  {
+    "id": "char_0427",
+    "file": "assets/characters/char_0427.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 40,
+    "col": 5
+  },
+  {
+    "id": "char_0428",
+    "file": "assets/characters/char_0428.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 40,
+    "col": 6
+  },
+  {
+    "id": "char_0429",
+    "file": "assets/characters/char_0429.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 40,
+    "col": 7
+  },
+  {
+    "id": "char_0430",
+    "file": "assets/characters/char_0430.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 40,
+    "col": 8
+  },
+  {
+    "id": "char_0431",
+    "file": "assets/characters/char_0431.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 40,
+    "col": 9
+  },
+  {
+    "id": "char_0432",
+    "file": "assets/characters/char_0432.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 40,
+    "col": 10
+  },
+  {
+    "id": "char_0433",
+    "file": "assets/characters/char_0433.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 40,
+    "col": 11
+  },
+  {
+    "id": "char_0434",
+    "file": "assets/characters/char_0434.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 41,
+    "col": 0
+  },
+  {
+    "id": "char_0435",
+    "file": "assets/characters/char_0435.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 41,
+    "col": 1
+  },
+  {
+    "id": "char_0436",
+    "file": "assets/characters/char_0436.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 41,
+    "col": 2
+  },
+  {
+    "id": "char_0437",
+    "file": "assets/characters/char_0437.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 41,
+    "col": 3
+  },
+  {
+    "id": "char_0438",
+    "file": "assets/characters/char_0438.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 41,
+    "col": 4
+  },
+  {
+    "id": "char_0439",
+    "file": "assets/characters/char_0439.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 41,
+    "col": 5
+  },
+  {
+    "id": "char_0440",
+    "file": "assets/characters/char_0440.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 41,
+    "col": 6
+  },
+  {
+    "id": "char_0441",
+    "file": "assets/characters/char_0441.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 41,
+    "col": 7
+  },
+  {
+    "id": "char_0442",
+    "file": "assets/characters/char_0442.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 41,
+    "col": 8
+  },
+  {
+    "id": "char_0443",
+    "file": "assets/characters/char_0443.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 41,
+    "col": 9
+  },
+  {
+    "id": "char_0444",
+    "file": "assets/characters/char_0444.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 41,
+    "col": 10
+  },
+  {
+    "id": "char_0445",
+    "file": "assets/characters/char_0445.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 41,
+    "col": 11
+  },
+  {
+    "id": "char_0446",
+    "file": "assets/characters/char_0446.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 42,
+    "col": 0
+  },
+  {
+    "id": "char_0447",
+    "file": "assets/characters/char_0447.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 42,
+    "col": 1
+  },
+  {
+    "id": "char_0448",
+    "file": "assets/characters/char_0448.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 42,
+    "col": 2
+  },
+  {
+    "id": "char_0449",
+    "file": "assets/characters/char_0449.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 42,
+    "col": 3
+  },
+  {
+    "id": "char_0450",
+    "file": "assets/characters/char_0450.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 42,
+    "col": 4
+  },
+  {
+    "id": "char_0451",
+    "file": "assets/characters/char_0451.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 42,
+    "col": 5
+  },
+  {
+    "id": "char_0452",
+    "file": "assets/characters/char_0452.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 42,
+    "col": 6
+  },
+  {
+    "id": "char_0453",
+    "file": "assets/characters/char_0453.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 42,
+    "col": 7
+  },
+  {
+    "id": "char_0454",
+    "file": "assets/characters/char_0454.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 42,
+    "col": 8
+  },
+  {
+    "id": "char_0455",
+    "file": "assets/characters/char_0455.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 42,
+    "col": 9
+  },
+  {
+    "id": "char_0456",
+    "file": "assets/characters/char_0456.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 42,
+    "col": 10
+  },
+  {
+    "id": "char_0457",
+    "file": "assets/characters/char_0457.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 42,
+    "col": 11
+  },
+  {
+    "id": "char_0458",
+    "file": "assets/characters/char_0458.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 43,
+    "col": 0
+  },
+  {
+    "id": "char_0459",
+    "file": "assets/characters/char_0459.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 43,
+    "col": 1
+  },
+  {
+    "id": "char_0460",
+    "file": "assets/characters/char_0460.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 43,
+    "col": 2
+  },
+  {
+    "id": "char_0461",
+    "file": "assets/characters/char_0461.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 43,
+    "col": 3
+  },
+  {
+    "id": "char_0462",
+    "file": "assets/characters/char_0462.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 43,
+    "col": 4
+  },
+  {
+    "id": "char_0463",
+    "file": "assets/characters/char_0463.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 43,
+    "col": 5
+  },
+  {
+    "id": "char_0464",
+    "file": "assets/characters/char_0464.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 43,
+    "col": 6
+  },
+  {
+    "id": "char_0465",
+    "file": "assets/characters/char_0465.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 43,
+    "col": 7
+  },
+  {
+    "id": "char_0466",
+    "file": "assets/characters/char_0466.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 43,
+    "col": 8
+  },
+  {
+    "id": "char_0467",
+    "file": "assets/characters/char_0467.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 43,
+    "col": 9
+  },
+  {
+    "id": "char_0468",
+    "file": "assets/characters/char_0468.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 43,
+    "col": 10
+  },
+  {
+    "id": "char_0469",
+    "file": "assets/characters/char_0469.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 43,
+    "col": 11
+  },
+  {
+    "id": "char_0470",
+    "file": "assets/characters/char_0470.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 44,
+    "col": 0
+  },
+  {
+    "id": "char_0471",
+    "file": "assets/characters/char_0471.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 44,
+    "col": 1
+  },
+  {
+    "id": "char_0472",
+    "file": "assets/characters/char_0472.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 44,
+    "col": 2
+  },
+  {
+    "id": "char_0473",
+    "file": "assets/characters/char_0473.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 44,
+    "col": 3
+  },
+  {
+    "id": "char_0474",
+    "file": "assets/characters/char_0474.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 44,
+    "col": 4
+  },
+  {
+    "id": "char_0475",
+    "file": "assets/characters/char_0475.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 44,
+    "col": 5
+  },
+  {
+    "id": "char_0476",
+    "file": "assets/characters/char_0476.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 44,
+    "col": 6
+  },
+  {
+    "id": "char_0477",
+    "file": "assets/characters/char_0477.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 44,
+    "col": 7
+  },
+  {
+    "id": "char_0478",
+    "file": "assets/characters/char_0478.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 44,
+    "col": 8
+  },
+  {
+    "id": "char_0479",
+    "file": "assets/characters/char_0479.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 44,
+    "col": 9
+  },
+  {
+    "id": "char_0480",
+    "file": "assets/characters/char_0480.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 44,
+    "col": 10
+  },
+  {
+    "id": "char_0481",
+    "file": "assets/characters/char_0481.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 44,
+    "col": 11
+  },
+  {
+    "id": "char_0482",
+    "file": "assets/characters/char_0482.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 45,
+    "col": 0
+  },
+  {
+    "id": "char_0483",
+    "file": "assets/characters/char_0483.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 45,
+    "col": 1
+  },
+  {
+    "id": "char_0484",
+    "file": "assets/characters/char_0484.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 45,
+    "col": 2
+  },
+  {
+    "id": "char_0485",
+    "file": "assets/characters/char_0485.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 45,
+    "col": 3
+  },
+  {
+    "id": "char_0486",
+    "file": "assets/characters/char_0486.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 45,
+    "col": 4
+  },
+  {
+    "id": "char_0487",
+    "file": "assets/characters/char_0487.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 45,
+    "col": 5
+  },
+  {
+    "id": "char_0488",
+    "file": "assets/characters/char_0488.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 45,
+    "col": 6
+  },
+  {
+    "id": "char_0489",
+    "file": "assets/characters/char_0489.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 45,
+    "col": 7
+  },
+  {
+    "id": "char_0490",
+    "file": "assets/characters/char_0490.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 45,
+    "col": 8
+  },
+  {
+    "id": "char_0491",
+    "file": "assets/characters/char_0491.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 45,
+    "col": 9
+  },
+  {
+    "id": "char_0492",
+    "file": "assets/characters/char_0492.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 45,
+    "col": 10
+  },
+  {
+    "id": "char_0493",
+    "file": "assets/characters/char_0493.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 45,
+    "col": 11
+  },
+  {
+    "id": "char_0494",
+    "file": "assets/characters/char_0494.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 46,
+    "col": 0
+  },
+  {
+    "id": "char_0495",
+    "file": "assets/characters/char_0495.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 46,
+    "col": 1
+  },
+  {
+    "id": "char_0496",
+    "file": "assets/characters/char_0496.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 46,
+    "col": 2
+  },
+  {
+    "id": "char_0497",
+    "file": "assets/characters/char_0497.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 46,
+    "col": 3
+  },
+  {
+    "id": "char_0498",
+    "file": "assets/characters/char_0498.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 46,
+    "col": 4
+  },
+  {
+    "id": "char_0499",
+    "file": "assets/characters/char_0499.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 46,
+    "col": 5
+  },
+  {
+    "id": "char_0500",
+    "file": "assets/characters/char_0500.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 46,
+    "col": 6
+  },
+  {
+    "id": "char_0501",
+    "file": "assets/characters/char_0501.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 46,
+    "col": 7
+  },
+  {
+    "id": "char_0502",
+    "file": "assets/characters/char_0502.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 46,
+    "col": 8
+  },
+  {
+    "id": "char_0503",
+    "file": "assets/characters/char_0503.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 46,
+    "col": 9
+  },
+  {
+    "id": "char_0504",
+    "file": "assets/characters/char_0504.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 46,
+    "col": 10
+  },
+  {
+    "id": "char_0505",
+    "file": "assets/characters/char_0505.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 46,
+    "col": 11
+  },
+  {
+    "id": "char_0506",
+    "file": "assets/characters/char_0506.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 47,
+    "col": 0
+  },
+  {
+    "id": "char_0507",
+    "file": "assets/characters/char_0507.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 47,
+    "col": 1
+  },
+  {
+    "id": "char_0508",
+    "file": "assets/characters/char_0508.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 47,
+    "col": 2
+  },
+  {
+    "id": "char_0509",
+    "file": "assets/characters/char_0509.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 47,
+    "col": 3
+  },
+  {
+    "id": "char_0510",
+    "file": "assets/characters/char_0510.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 47,
+    "col": 4
+  },
+  {
+    "id": "char_0511",
+    "file": "assets/characters/char_0511.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 47,
+    "col": 5
+  },
+  {
+    "id": "char_0512",
+    "file": "assets/characters/char_0512.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 47,
+    "col": 6
+  },
+  {
+    "id": "char_0513",
+    "file": "assets/characters/char_0513.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 47,
+    "col": 7
+  },
+  {
+    "id": "char_0514",
+    "file": "assets/characters/char_0514.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 47,
+    "col": 8
+  },
+  {
+    "id": "char_0515",
+    "file": "assets/characters/char_0515.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 47,
+    "col": 9
+  },
+  {
+    "id": "char_0516",
+    "file": "assets/characters/char_0516.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 47,
+    "col": 10
+  },
+  {
+    "id": "char_0517",
+    "file": "assets/characters/char_0517.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 47,
+    "col": 11
+  },
+  {
+    "id": "char_0518",
+    "file": "assets/characters/char_0518.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 48,
+    "col": 0
+  },
+  {
+    "id": "char_0519",
+    "file": "assets/characters/char_0519.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 48,
+    "col": 1
+  },
+  {
+    "id": "char_0520",
+    "file": "assets/characters/char_0520.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 48,
+    "col": 2
+  },
+  {
+    "id": "char_0521",
+    "file": "assets/characters/char_0521.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 48,
+    "col": 3
+  },
+  {
+    "id": "char_0522",
+    "file": "assets/characters/char_0522.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 48,
+    "col": 4
+  },
+  {
+    "id": "char_0523",
+    "file": "assets/characters/char_0523.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 48,
+    "col": 5
+  },
+  {
+    "id": "char_0524",
+    "file": "assets/characters/char_0524.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 48,
+    "col": 6
+  },
+  {
+    "id": "char_0525",
+    "file": "assets/characters/char_0525.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 48,
+    "col": 7
+  },
+  {
+    "id": "char_0526",
+    "file": "assets/characters/char_0526.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 48,
+    "col": 8
+  },
+  {
+    "id": "char_0527",
+    "file": "assets/characters/char_0527.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 48,
+    "col": 9
+  },
+  {
+    "id": "char_0528",
+    "file": "assets/characters/char_0528.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 48,
+    "col": 10
+  },
+  {
+    "id": "char_0529",
+    "file": "assets/characters/char_0529.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 48,
+    "col": 11
+  },
+  {
+    "id": "char_0530",
+    "file": "assets/characters/char_0530.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 49,
+    "col": 0
+  },
+  {
+    "id": "char_0531",
+    "file": "assets/characters/char_0531.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 49,
+    "col": 1
+  },
+  {
+    "id": "char_0532",
+    "file": "assets/characters/char_0532.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 49,
+    "col": 2
+  },
+  {
+    "id": "char_0533",
+    "file": "assets/characters/char_0533.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 49,
+    "col": 3
+  },
+  {
+    "id": "char_0534",
+    "file": "assets/characters/char_0534.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 49,
+    "col": 4
+  },
+  {
+    "id": "char_0535",
+    "file": "assets/characters/char_0535.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 49,
+    "col": 5
+  },
+  {
+    "id": "char_0536",
+    "file": "assets/characters/char_0536.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 49,
+    "col": 6
+  },
+  {
+    "id": "char_0537",
+    "file": "assets/characters/char_0537.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 49,
+    "col": 7
+  },
+  {
+    "id": "char_0538",
+    "file": "assets/characters/char_0538.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 49,
+    "col": 8
+  },
+  {
+    "id": "char_0539",
+    "file": "assets/characters/char_0539.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 49,
+    "col": 9
+  },
+  {
+    "id": "char_0540",
+    "file": "assets/characters/char_0540.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 49,
+    "col": 10
+  },
+  {
+    "id": "char_0541",
+    "file": "assets/characters/char_0541.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 49,
+    "col": 11
+  },
+  {
+    "id": "char_0542",
+    "file": "assets/characters/char_0542.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 50,
+    "col": 0
+  },
+  {
+    "id": "char_0543",
+    "file": "assets/characters/char_0543.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 50,
+    "col": 1
+  },
+  {
+    "id": "char_0544",
+    "file": "assets/characters/char_0544.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 50,
+    "col": 2
+  },
+  {
+    "id": "char_0545",
+    "file": "assets/characters/char_0545.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 50,
+    "col": 3
+  },
+  {
+    "id": "char_0546",
+    "file": "assets/characters/char_0546.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 50,
+    "col": 4
+  },
+  {
+    "id": "char_0547",
+    "file": "assets/characters/char_0547.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 50,
+    "col": 5
+  },
+  {
+    "id": "char_0548",
+    "file": "assets/characters/char_0548.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 50,
+    "col": 6
+  },
+  {
+    "id": "char_0549",
+    "file": "assets/characters/char_0549.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 50,
+    "col": 7
+  },
+  {
+    "id": "char_0550",
+    "file": "assets/characters/char_0550.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 50,
+    "col": 8
+  },
+  {
+    "id": "char_0551",
+    "file": "assets/characters/char_0551.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 50,
+    "col": 9
+  },
+  {
+    "id": "char_0552",
+    "file": "assets/characters/char_0552.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 50,
+    "col": 10
+  },
+  {
+    "id": "char_0553",
+    "file": "assets/characters/char_0553.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 50,
+    "col": 11
+  },
+  {
+    "id": "char_0554",
+    "file": "assets/characters/char_0554.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 51,
+    "col": 0
+  },
+  {
+    "id": "char_0555",
+    "file": "assets/characters/char_0555.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 51,
+    "col": 1
+  },
+  {
+    "id": "char_0556",
+    "file": "assets/characters/char_0556.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 51,
+    "col": 2
+  },
+  {
+    "id": "char_0557",
+    "file": "assets/characters/char_0557.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 51,
+    "col": 3
+  },
+  {
+    "id": "char_0558",
+    "file": "assets/characters/char_0558.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 51,
+    "col": 4
+  },
+  {
+    "id": "char_0559",
+    "file": "assets/characters/char_0559.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 51,
+    "col": 5
+  },
+  {
+    "id": "char_0560",
+    "file": "assets/characters/char_0560.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 51,
+    "col": 6
+  },
+  {
+    "id": "char_0561",
+    "file": "assets/characters/char_0561.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 51,
+    "col": 7
+  },
+  {
+    "id": "char_0562",
+    "file": "assets/characters/char_0562.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 51,
+    "col": 8
+  },
+  {
+    "id": "char_0563",
+    "file": "assets/characters/char_0563.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 51,
+    "col": 9
+  },
+  {
+    "id": "char_0564",
+    "file": "assets/characters/char_0564.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 51,
+    "col": 10
+  },
+  {
+    "id": "char_0565",
+    "file": "assets/characters/char_0565.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 51,
+    "col": 11
+  },
+  {
+    "id": "char_0566",
+    "file": "assets/characters/char_0566.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 52,
+    "col": 0
+  },
+  {
+    "id": "char_0567",
+    "file": "assets/characters/char_0567.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 52,
+    "col": 1
+  },
+  {
+    "id": "char_0568",
+    "file": "assets/characters/char_0568.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 52,
+    "col": 2
+  },
+  {
+    "id": "char_0569",
+    "file": "assets/characters/char_0569.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 52,
+    "col": 3
+  },
+  {
+    "id": "char_0570",
+    "file": "assets/characters/char_0570.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 52,
+    "col": 4
+  },
+  {
+    "id": "char_0571",
+    "file": "assets/characters/char_0571.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 52,
+    "col": 5
+  },
+  {
+    "id": "char_0572",
+    "file": "assets/characters/char_0572.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 52,
+    "col": 6
+  },
+  {
+    "id": "char_0573",
+    "file": "assets/characters/char_0573.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 52,
+    "col": 7
+  },
+  {
+    "id": "char_0574",
+    "file": "assets/characters/char_0574.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 52,
+    "col": 8
+  },
+  {
+    "id": "char_0575",
+    "file": "assets/characters/char_0575.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 52,
+    "col": 9
+  },
+  {
+    "id": "char_0576",
+    "file": "assets/characters/char_0576.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 52,
+    "col": 10
+  },
+  {
+    "id": "char_0577",
+    "file": "assets/characters/char_0577.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 52,
+    "col": 11
+  },
+  {
+    "id": "char_0578",
+    "file": "assets/characters/char_0578.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 53,
+    "col": 0
+  },
+  {
+    "id": "char_0579",
+    "file": "assets/characters/char_0579.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 53,
+    "col": 1
+  },
+  {
+    "id": "char_0580",
+    "file": "assets/characters/char_0580.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 53,
+    "col": 2
+  },
+  {
+    "id": "char_0581",
+    "file": "assets/characters/char_0581.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 53,
+    "col": 3
+  },
+  {
+    "id": "char_0582",
+    "file": "assets/characters/char_0582.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 53,
+    "col": 4
+  },
+  {
+    "id": "char_0583",
+    "file": "assets/characters/char_0583.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 53,
+    "col": 5
+  },
+  {
+    "id": "char_0584",
+    "file": "assets/characters/char_0584.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 53,
+    "col": 6
+  },
+  {
+    "id": "char_0585",
+    "file": "assets/characters/char_0585.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 53,
+    "col": 7
+  },
+  {
+    "id": "char_0586",
+    "file": "assets/characters/char_0586.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 53,
+    "col": 8
+  },
+  {
+    "id": "char_0587",
+    "file": "assets/characters/char_0587.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 53,
+    "col": 9
+  },
+  {
+    "id": "char_0588",
+    "file": "assets/characters/char_0588.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 53,
+    "col": 10
+  },
+  {
+    "id": "char_0589",
+    "file": "assets/characters/char_0589.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 53,
+    "col": 11
+  },
+  {
+    "id": "char_0590",
+    "file": "assets/characters/char_0590.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 54,
+    "col": 0
+  },
+  {
+    "id": "char_0591",
+    "file": "assets/characters/char_0591.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 54,
+    "col": 1
+  },
+  {
+    "id": "char_0592",
+    "file": "assets/characters/char_0592.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 54,
+    "col": 2
+  },
+  {
+    "id": "char_0593",
+    "file": "assets/characters/char_0593.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 54,
+    "col": 3
+  },
+  {
+    "id": "char_0594",
+    "file": "assets/characters/char_0594.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 54,
+    "col": 4
+  },
+  {
+    "id": "char_0595",
+    "file": "assets/characters/char_0595.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 54,
+    "col": 5
+  },
+  {
+    "id": "char_0596",
+    "file": "assets/characters/char_0596.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 54,
+    "col": 6
+  },
+  {
+    "id": "char_0597",
+    "file": "assets/characters/char_0597.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 54,
+    "col": 7
+  },
+  {
+    "id": "char_0598",
+    "file": "assets/characters/char_0598.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 54,
+    "col": 8
+  },
+  {
+    "id": "char_0599",
+    "file": "assets/characters/char_0599.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 54,
+    "col": 9
+  },
+  {
+    "id": "char_0600",
+    "file": "assets/characters/char_0600.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 54,
+    "col": 10
+  },
+  {
+    "id": "char_0601",
+    "file": "assets/characters/char_0601.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 54,
+    "col": 11
+  },
+  {
+    "id": "char_0602",
+    "file": "assets/characters/char_0602.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 55,
+    "col": 0
+  },
+  {
+    "id": "char_0603",
+    "file": "assets/characters/char_0603.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 55,
+    "col": 1
+  },
+  {
+    "id": "char_0604",
+    "file": "assets/characters/char_0604.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 55,
+    "col": 2
+  },
+  {
+    "id": "char_0605",
+    "file": "assets/characters/char_0605.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 55,
+    "col": 3
+  },
+  {
+    "id": "char_0606",
+    "file": "assets/characters/char_0606.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 55,
+    "col": 4
+  },
+  {
+    "id": "char_0607",
+    "file": "assets/characters/char_0607.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 55,
+    "col": 5
+  },
+  {
+    "id": "char_0608",
+    "file": "assets/characters/char_0608.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 55,
+    "col": 6
+  },
+  {
+    "id": "char_0609",
+    "file": "assets/characters/char_0609.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 55,
+    "col": 7
+  },
+  {
+    "id": "char_0610",
+    "file": "assets/characters/char_0610.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 55,
+    "col": 8
+  },
+  {
+    "id": "char_0611",
+    "file": "assets/characters/char_0611.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 55,
+    "col": 9
+  },
+  {
+    "id": "char_0612",
+    "file": "assets/characters/char_0612.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 55,
+    "col": 10
+  },
+  {
+    "id": "char_0613",
+    "file": "assets/characters/char_0613.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 55,
+    "col": 11
+  },
+  {
+    "id": "char_0614",
+    "file": "assets/characters/char_0614.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 56,
+    "col": 0
+  },
+  {
+    "id": "char_0615",
+    "file": "assets/characters/char_0615.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 56,
+    "col": 1
+  },
+  {
+    "id": "char_0616",
+    "file": "assets/characters/char_0616.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 56,
+    "col": 2
+  },
+  {
+    "id": "char_0617",
+    "file": "assets/characters/char_0617.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 56,
+    "col": 3
+  },
+  {
+    "id": "char_0618",
+    "file": "assets/characters/char_0618.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 56,
+    "col": 4
+  },
+  {
+    "id": "char_0619",
+    "file": "assets/characters/char_0619.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 56,
+    "col": 5
+  },
+  {
+    "id": "char_0620",
+    "file": "assets/characters/char_0620.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 56,
+    "col": 6
+  },
+  {
+    "id": "char_0621",
+    "file": "assets/characters/char_0621.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 56,
+    "col": 7
+  },
+  {
+    "id": "char_0622",
+    "file": "assets/characters/char_0622.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 56,
+    "col": 8
+  },
+  {
+    "id": "char_0623",
+    "file": "assets/characters/char_0623.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 56,
+    "col": 9
+  },
+  {
+    "id": "char_0624",
+    "file": "assets/characters/char_0624.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 56,
+    "col": 10
+  },
+  {
+    "id": "char_0625",
+    "file": "assets/characters/char_0625.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 56,
+    "col": 11
+  },
+  {
+    "id": "char_0626",
+    "file": "assets/characters/char_0626.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 57,
+    "col": 0
+  },
+  {
+    "id": "char_0627",
+    "file": "assets/characters/char_0627.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 57,
+    "col": 1
+  },
+  {
+    "id": "char_0628",
+    "file": "assets/characters/char_0628.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 57,
+    "col": 2
+  },
+  {
+    "id": "char_0629",
+    "file": "assets/characters/char_0629.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 57,
+    "col": 3
+  },
+  {
+    "id": "char_0630",
+    "file": "assets/characters/char_0630.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 58,
+    "col": 0
+  },
+  {
+    "id": "char_0631",
+    "file": "assets/characters/char_0631.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 58,
+    "col": 1
+  },
+  {
+    "id": "char_0632",
+    "file": "assets/characters/char_0632.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 58,
+    "col": 2
+  },
+  {
+    "id": "char_0633",
+    "file": "assets/characters/char_0633.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 58,
+    "col": 3
+  },
+  {
+    "id": "char_0634",
+    "file": "assets/characters/char_0634.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 58,
+    "col": 4
+  },
+  {
+    "id": "char_0635",
+    "file": "assets/characters/char_0635.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 58,
+    "col": 5
+  },
+  {
+    "id": "char_0636",
+    "file": "assets/characters/char_0636.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 58,
+    "col": 6
+  },
+  {
+    "id": "char_0637",
+    "file": "assets/characters/char_0637.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 58,
+    "col": 7
+  },
+  {
+    "id": "char_0638",
+    "file": "assets/characters/char_0638.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 58,
+    "col": 8
+  },
+  {
+    "id": "char_0639",
+    "file": "assets/characters/char_0639.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 58,
+    "col": 9
+  },
+  {
+    "id": "char_0640",
+    "file": "assets/characters/char_0640.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 58,
+    "col": 10
+  },
+  {
+    "id": "char_0641",
+    "file": "assets/characters/char_0641.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 58,
+    "col": 11
+  },
+  {
+    "id": "char_0642",
+    "file": "assets/characters/char_0642.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 59,
+    "col": 0
+  },
+  {
+    "id": "char_0643",
+    "file": "assets/characters/char_0643.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 59,
+    "col": 1
+  },
+  {
+    "id": "char_0644",
+    "file": "assets/characters/char_0644.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 59,
+    "col": 2
+  },
+  {
+    "id": "char_0645",
+    "file": "assets/characters/char_0645.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 59,
+    "col": 3
+  },
+  {
+    "id": "char_0646",
+    "file": "assets/characters/char_0646.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 59,
+    "col": 4
+  },
+  {
+    "id": "char_0647",
+    "file": "assets/characters/char_0647.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 59,
+    "col": 5
+  },
+  {
+    "id": "char_0648",
+    "file": "assets/characters/char_0648.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 59,
+    "col": 6
+  },
+  {
+    "id": "char_0649",
+    "file": "assets/characters/char_0649.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 59,
+    "col": 7
+  },
+  {
+    "id": "char_0650",
+    "file": "assets/characters/char_0650.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 59,
+    "col": 8
+  },
+  {
+    "id": "char_0651",
+    "file": "assets/characters/char_0651.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 59,
+    "col": 9
+  },
+  {
+    "id": "char_0652",
+    "file": "assets/characters/char_0652.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 59,
+    "col": 10
+  },
+  {
+    "id": "char_0653",
+    "file": "assets/characters/char_0653.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 59,
+    "col": 11
+  },
+  {
+    "id": "char_0654",
+    "file": "assets/characters/char_0654.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 60,
+    "col": 0
+  },
+  {
+    "id": "char_0655",
+    "file": "assets/characters/char_0655.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 60,
+    "col": 1
+  },
+  {
+    "id": "char_0656",
+    "file": "assets/characters/char_0656.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 60,
+    "col": 2
+  },
+  {
+    "id": "char_0657",
+    "file": "assets/characters/char_0657.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 60,
+    "col": 3
+  },
+  {
+    "id": "char_0658",
+    "file": "assets/characters/char_0658.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 60,
+    "col": 4
+  },
+  {
+    "id": "char_0659",
+    "file": "assets/characters/char_0659.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 60,
+    "col": 5
+  },
+  {
+    "id": "char_0660",
+    "file": "assets/characters/char_0660.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 60,
+    "col": 6
+  },
+  {
+    "id": "char_0661",
+    "file": "assets/characters/char_0661.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 60,
+    "col": 7
+  },
+  {
+    "id": "char_0662",
+    "file": "assets/characters/char_0662.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 60,
+    "col": 8
+  },
+  {
+    "id": "char_0663",
+    "file": "assets/characters/char_0663.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 60,
+    "col": 9
+  },
+  {
+    "id": "char_0664",
+    "file": "assets/characters/char_0664.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 60,
+    "col": 10
+  },
+  {
+    "id": "char_0665",
+    "file": "assets/characters/char_0665.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 60,
+    "col": 11
+  },
+  {
+    "id": "char_0666",
+    "file": "assets/characters/char_0666.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 61,
+    "col": 0
+  },
+  {
+    "id": "char_0667",
+    "file": "assets/characters/char_0667.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 61,
+    "col": 1
+  },
+  {
+    "id": "char_0668",
+    "file": "assets/characters/char_0668.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 61,
+    "col": 2
+  },
+  {
+    "id": "char_0669",
+    "file": "assets/characters/char_0669.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 61,
+    "col": 3
+  },
+  {
+    "id": "char_0670",
+    "file": "assets/characters/char_0670.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 61,
+    "col": 4
+  },
+  {
+    "id": "char_0671",
+    "file": "assets/characters/char_0671.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 61,
+    "col": 5
+  },
+  {
+    "id": "char_0672",
+    "file": "assets/characters/char_0672.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 61,
+    "col": 6
+  },
+  {
+    "id": "char_0673",
+    "file": "assets/characters/char_0673.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 61,
+    "col": 7
+  },
+  {
+    "id": "char_0674",
+    "file": "assets/characters/char_0674.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 61,
+    "col": 8
+  },
+  {
+    "id": "char_0675",
+    "file": "assets/characters/char_0675.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 61,
+    "col": 9
+  },
+  {
+    "id": "char_0676",
+    "file": "assets/characters/char_0676.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 61,
+    "col": 10
+  },
+  {
+    "id": "char_0677",
+    "file": "assets/characters/char_0677.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 61,
+    "col": 11
+  },
+  {
+    "id": "char_0678",
+    "file": "assets/characters/char_0678.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 62,
+    "col": 0
+  },
+  {
+    "id": "char_0679",
+    "file": "assets/characters/char_0679.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 62,
+    "col": 1
+  },
+  {
+    "id": "char_0680",
+    "file": "assets/characters/char_0680.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 62,
+    "col": 2
+  },
+  {
+    "id": "char_0681",
+    "file": "assets/characters/char_0681.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 62,
+    "col": 3
+  },
+  {
+    "id": "char_0682",
+    "file": "assets/characters/char_0682.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 62,
+    "col": 4
+  },
+  {
+    "id": "char_0683",
+    "file": "assets/characters/char_0683.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 62,
+    "col": 5
+  },
+  {
+    "id": "char_0684",
+    "file": "assets/characters/char_0684.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 62,
+    "col": 6
+  },
+  {
+    "id": "char_0685",
+    "file": "assets/characters/char_0685.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 62,
+    "col": 7
+  },
+  {
+    "id": "char_0686",
+    "file": "assets/characters/char_0686.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 62,
+    "col": 8
+  },
+  {
+    "id": "char_0687",
+    "file": "assets/characters/char_0687.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 62,
+    "col": 9
+  },
+  {
+    "id": "char_0688",
+    "file": "assets/characters/char_0688.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 62,
+    "col": 10
+  },
+  {
+    "id": "char_0689",
+    "file": "assets/characters/char_0689.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 63,
+    "col": 0
+  },
+  {
+    "id": "char_0690",
+    "file": "assets/characters/char_0690.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 63,
+    "col": 1
+  },
+  {
+    "id": "char_0691",
+    "file": "assets/characters/char_0691.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 63,
+    "col": 2
+  },
+  {
+    "id": "char_0692",
+    "file": "assets/characters/char_0692.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 63,
+    "col": 3
+  },
+  {
+    "id": "char_0693",
+    "file": "assets/characters/char_0693.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 63,
+    "col": 4
+  },
+  {
+    "id": "char_0694",
+    "file": "assets/characters/char_0694.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 63,
+    "col": 5
+  },
+  {
+    "id": "char_0695",
+    "file": "assets/characters/char_0695.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 63,
+    "col": 6
+  },
+  {
+    "id": "char_0696",
+    "file": "assets/characters/char_0696.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 63,
+    "col": 7
+  },
+  {
+    "id": "char_0697",
+    "file": "assets/characters/char_0697.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 63,
+    "col": 8
+  },
+  {
+    "id": "char_0698",
+    "file": "assets/characters/char_0698.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 63,
+    "col": 9
+  },
+  {
+    "id": "char_0699",
+    "file": "assets/characters/char_0699.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 63,
+    "col": 10
+  },
+  {
+    "id": "char_0700",
+    "file": "assets/characters/char_0700.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 63,
+    "col": 11
+  },
+  {
+    "id": "char_0701",
+    "file": "assets/characters/char_0701.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 64,
+    "col": 0
+  },
+  {
+    "id": "char_0702",
+    "file": "assets/characters/char_0702.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 64,
+    "col": 1
+  },
+  {
+    "id": "char_0703",
+    "file": "assets/characters/char_0703.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 64,
+    "col": 2
+  },
+  {
+    "id": "char_0704",
+    "file": "assets/characters/char_0704.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 64,
+    "col": 3
+  },
+  {
+    "id": "char_0705",
+    "file": "assets/characters/char_0705.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 64,
+    "col": 4
+  },
+  {
+    "id": "char_0706",
+    "file": "assets/characters/char_0706.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 64,
+    "col": 5
+  },
+  {
+    "id": "char_0707",
+    "file": "assets/characters/char_0707.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 64,
+    "col": 6
+  },
+  {
+    "id": "char_0708",
+    "file": "assets/characters/char_0708.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 64,
+    "col": 7
+  },
+  {
+    "id": "char_0709",
+    "file": "assets/characters/char_0709.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 64,
+    "col": 8
+  },
+  {
+    "id": "char_0710",
+    "file": "assets/characters/char_0710.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 64,
+    "col": 9
+  },
+  {
+    "id": "char_0711",
+    "file": "assets/characters/char_0711.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 64,
+    "col": 10
+  },
+  {
+    "id": "char_0712",
+    "file": "assets/characters/char_0712.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 64,
+    "col": 11
+  },
+  {
+    "id": "char_0713",
+    "file": "assets/characters/char_0713.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 65,
+    "col": 0
+  },
+  {
+    "id": "char_0714",
+    "file": "assets/characters/char_0714.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 65,
+    "col": 1
+  },
+  {
+    "id": "char_0715",
+    "file": "assets/characters/char_0715.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 65,
+    "col": 2
+  },
+  {
+    "id": "char_0716",
+    "file": "assets/characters/char_0716.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 65,
+    "col": 3
+  },
+  {
+    "id": "char_0717",
+    "file": "assets/characters/char_0717.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 65,
+    "col": 4
+  },
+  {
+    "id": "char_0718",
+    "file": "assets/characters/char_0718.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 65,
+    "col": 5
+  },
+  {
+    "id": "char_0719",
+    "file": "assets/characters/char_0719.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 65,
+    "col": 6
+  },
+  {
+    "id": "char_0720",
+    "file": "assets/characters/char_0720.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 65,
+    "col": 7
+  },
+  {
+    "id": "char_0721",
+    "file": "assets/characters/char_0721.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 65,
+    "col": 8
+  },
+  {
+    "id": "char_0722",
+    "file": "assets/characters/char_0722.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 65,
+    "col": 9
+  },
+  {
+    "id": "char_0723",
+    "file": "assets/characters/char_0723.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 65,
+    "col": 10
+  },
+  {
+    "id": "char_0724",
+    "file": "assets/characters/char_0724.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 65,
+    "col": 11
+  },
+  {
+    "id": "char_0725",
+    "file": "assets/characters/char_0725.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 66,
+    "col": 0
+  },
+  {
+    "id": "char_0726",
+    "file": "assets/characters/char_0726.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 66,
+    "col": 1
+  },
+  {
+    "id": "char_0727",
+    "file": "assets/characters/char_0727.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 66,
+    "col": 2
+  },
+  {
+    "id": "char_0728",
+    "file": "assets/characters/char_0728.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 66,
+    "col": 3
+  },
+  {
+    "id": "char_0729",
+    "file": "assets/characters/char_0729.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 66,
+    "col": 4
+  },
+  {
+    "id": "char_0730",
+    "file": "assets/characters/char_0730.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 66,
+    "col": 5
+  },
+  {
+    "id": "char_0731",
+    "file": "assets/characters/char_0731.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 66,
+    "col": 6
+  },
+  {
+    "id": "char_0732",
+    "file": "assets/characters/char_0732.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 66,
+    "col": 7
+  },
+  {
+    "id": "char_0733",
+    "file": "assets/characters/char_0733.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 66,
+    "col": 8
+  },
+  {
+    "id": "char_0734",
+    "file": "assets/characters/char_0734.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 66,
+    "col": 9
+  },
+  {
+    "id": "char_0735",
+    "file": "assets/characters/char_0735.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 66,
+    "col": 10
+  },
+  {
+    "id": "char_0736",
+    "file": "assets/characters/char_0736.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 66,
+    "col": 11
+  },
+  {
+    "id": "char_0737",
+    "file": "assets/characters/char_0737.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 67,
+    "col": 0
+  },
+  {
+    "id": "char_0738",
+    "file": "assets/characters/char_0738.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 67,
+    "col": 1
+  },
+  {
+    "id": "char_0739",
+    "file": "assets/characters/char_0739.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 67,
+    "col": 2
+  },
+  {
+    "id": "char_0740",
+    "file": "assets/characters/char_0740.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 67,
+    "col": 3
+  },
+  {
+    "id": "char_0741",
+    "file": "assets/characters/char_0741.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 68,
+    "col": 0
+  },
+  {
+    "id": "char_0742",
+    "file": "assets/characters/char_0742.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 68,
+    "col": 1
+  },
+  {
+    "id": "char_0743",
+    "file": "assets/characters/char_0743.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 68,
+    "col": 2
+  },
+  {
+    "id": "char_0744",
+    "file": "assets/characters/char_0744.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 68,
+    "col": 3
+  },
+  {
+    "id": "char_0745",
+    "file": "assets/characters/char_0745.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 69,
+    "col": 0
+  },
+  {
+    "id": "char_0746",
+    "file": "assets/characters/char_0746.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 69,
+    "col": 1
+  },
+  {
+    "id": "char_0747",
+    "file": "assets/characters/char_0747.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 69,
+    "col": 2
+  },
+  {
+    "id": "char_0748",
+    "file": "assets/characters/char_0748.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 69,
+    "col": 3
+  },
+  {
+    "id": "char_0749",
+    "file": "assets/characters/char_0749.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 70,
+    "col": 0
+  },
+  {
+    "id": "char_0750",
+    "file": "assets/characters/char_0750.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 70,
+    "col": 1
+  },
+  {
+    "id": "char_0751",
+    "file": "assets/characters/char_0751.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 70,
+    "col": 2
+  },
+  {
+    "id": "char_0752",
+    "file": "assets/characters/char_0752.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 70,
+    "col": 3
+  },
+  {
+    "id": "char_0753",
+    "file": "assets/characters/char_0753.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 71,
+    "col": 0
+  },
+  {
+    "id": "char_0754",
+    "file": "assets/characters/char_0754.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 71,
+    "col": 1
+  },
+  {
+    "id": "char_0755",
+    "file": "assets/characters/char_0755.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 71,
+    "col": 2
+  },
+  {
+    "id": "char_0756",
+    "file": "assets/characters/char_0756.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 71,
+    "col": 3
+  },
+  {
+    "id": "char_0757",
+    "file": "assets/characters/char_0757.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 72,
+    "col": 0
+  },
+  {
+    "id": "char_0758",
+    "file": "assets/characters/char_0758.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 72,
+    "col": 1
+  },
+  {
+    "id": "char_0759",
+    "file": "assets/characters/char_0759.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 72,
+    "col": 2
+  },
+  {
+    "id": "char_0760",
+    "file": "assets/characters/char_0760.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 72,
+    "col": 3
+  },
+  {
+    "id": "char_0761",
+    "file": "assets/characters/char_0761.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 73,
+    "col": 0
+  },
+  {
+    "id": "char_0762",
+    "file": "assets/characters/char_0762.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 73,
+    "col": 1
+  },
+  {
+    "id": "char_0763",
+    "file": "assets/characters/char_0763.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 73,
+    "col": 2
+  },
+  {
+    "id": "char_0764",
+    "file": "assets/characters/char_0764.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 73,
+    "col": 3
+  },
+  {
+    "id": "char_0765",
+    "file": "assets/characters/char_0765.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 73,
+    "col": 4
+  },
+  {
+    "id": "char_0766",
+    "file": "assets/characters/char_0766.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 73,
+    "col": 5
+  },
+  {
+    "id": "char_0767",
+    "file": "assets/characters/char_0767.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 73,
+    "col": 6
+  },
+  {
+    "id": "char_0768",
+    "file": "assets/characters/char_0768.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 73,
+    "col": 7
+  },
+  {
+    "id": "char_0769",
+    "file": "assets/characters/char_0769.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 73,
+    "col": 8
+  },
+  {
+    "id": "char_0770",
+    "file": "assets/characters/char_0770.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 73,
+    "col": 9
+  },
+  {
+    "id": "char_0771",
+    "file": "assets/characters/char_0771.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 73,
+    "col": 10
+  },
+  {
+    "id": "char_0772",
+    "file": "assets/characters/char_0772.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 73,
+    "col": 11
+  },
+  {
+    "id": "char_0773",
+    "file": "assets/characters/char_0773.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 74,
+    "col": 0
+  },
+  {
+    "id": "char_0774",
+    "file": "assets/characters/char_0774.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 74,
+    "col": 1
+  },
+  {
+    "id": "char_0775",
+    "file": "assets/characters/char_0775.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 74,
+    "col": 2
+  },
+  {
+    "id": "char_0776",
+    "file": "assets/characters/char_0776.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 74,
+    "col": 3
+  },
+  {
+    "id": "char_0777",
+    "file": "assets/characters/char_0777.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 74,
+    "col": 4
+  },
+  {
+    "id": "char_0778",
+    "file": "assets/characters/char_0778.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 74,
+    "col": 5
+  },
+  {
+    "id": "char_0779",
+    "file": "assets/characters/char_0779.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 74,
+    "col": 6
+  },
+  {
+    "id": "char_0780",
+    "file": "assets/characters/char_0780.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 74,
+    "col": 7
+  },
+  {
+    "id": "char_0781",
+    "file": "assets/characters/char_0781.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 74,
+    "col": 8
+  },
+  {
+    "id": "char_0782",
+    "file": "assets/characters/char_0782.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 74,
+    "col": 9
+  },
+  {
+    "id": "char_0783",
+    "file": "assets/characters/char_0783.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 74,
+    "col": 10
+  },
+  {
+    "id": "char_0784",
+    "file": "assets/characters/char_0784.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 74,
+    "col": 11
+  },
+  {
+    "id": "char_0785",
+    "file": "assets/characters/char_0785.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 75,
+    "col": 0
+  },
+  {
+    "id": "char_0786",
+    "file": "assets/characters/char_0786.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 75,
+    "col": 1
+  },
+  {
+    "id": "char_0787",
+    "file": "assets/characters/char_0787.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 75,
+    "col": 2
+  },
+  {
+    "id": "char_0788",
+    "file": "assets/characters/char_0788.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 75,
+    "col": 3
+  },
+  {
+    "id": "char_0789",
+    "file": "assets/characters/char_0789.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 76,
+    "col": 0
+  },
+  {
+    "id": "char_0790",
+    "file": "assets/characters/char_0790.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 76,
+    "col": 1
+  },
+  {
+    "id": "char_0791",
+    "file": "assets/characters/char_0791.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 76,
+    "col": 2
+  },
+  {
+    "id": "char_0792",
+    "file": "assets/characters/char_0792.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 76,
+    "col": 3
+  },
+  {
+    "id": "char_0793",
+    "file": "assets/characters/char_0793.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 77,
+    "col": 0
+  },
+  {
+    "id": "char_0794",
+    "file": "assets/characters/char_0794.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 77,
+    "col": 1
+  },
+  {
+    "id": "char_0795",
+    "file": "assets/characters/char_0795.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 77,
+    "col": 2
+  },
+  {
+    "id": "char_0796",
+    "file": "assets/characters/char_0796.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 77,
+    "col": 3
+  },
+  {
+    "id": "char_0797",
+    "file": "assets/characters/char_0797.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 77,
+    "col": 4
+  },
+  {
+    "id": "char_0798",
+    "file": "assets/characters/char_0798.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 77,
+    "col": 5
+  },
+  {
+    "id": "char_0799",
+    "file": "assets/characters/char_0799.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 77,
+    "col": 6
+  },
+  {
+    "id": "char_0800",
+    "file": "assets/characters/char_0800.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 77,
+    "col": 7
+  },
+  {
+    "id": "char_0801",
+    "file": "assets/characters/char_0801.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 77,
+    "col": 8
+  },
+  {
+    "id": "char_0802",
+    "file": "assets/characters/char_0802.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 77,
+    "col": 9
+  },
+  {
+    "id": "char_0803",
+    "file": "assets/characters/char_0803.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 77,
+    "col": 10
+  },
+  {
+    "id": "char_0804",
+    "file": "assets/characters/char_0804.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 77,
+    "col": 11
+  },
+  {
+    "id": "char_0805",
+    "file": "assets/characters/char_0805.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 78,
+    "col": 0
+  },
+  {
+    "id": "char_0806",
+    "file": "assets/characters/char_0806.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 78,
+    "col": 1
+  },
+  {
+    "id": "char_0807",
+    "file": "assets/characters/char_0807.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 78,
+    "col": 2
+  },
+  {
+    "id": "char_0808",
+    "file": "assets/characters/char_0808.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 78,
+    "col": 3
+  },
+  {
+    "id": "char_0809",
+    "file": "assets/characters/char_0809.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 78,
+    "col": 4
+  },
+  {
+    "id": "char_0810",
+    "file": "assets/characters/char_0810.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 78,
+    "col": 5
+  },
+  {
+    "id": "char_0811",
+    "file": "assets/characters/char_0811.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 78,
+    "col": 6
+  },
+  {
+    "id": "char_0812",
+    "file": "assets/characters/char_0812.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 78,
+    "col": 7
+  },
+  {
+    "id": "char_0813",
+    "file": "assets/characters/char_0813.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 78,
+    "col": 8
+  },
+  {
+    "id": "char_0814",
+    "file": "assets/characters/char_0814.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 78,
+    "col": 9
+  },
+  {
+    "id": "char_0815",
+    "file": "assets/characters/char_0815.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 78,
+    "col": 10
+  },
+  {
+    "id": "char_0816",
+    "file": "assets/characters/char_0816.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 78,
+    "col": 11
+  },
+  {
+    "id": "char_0817",
+    "file": "assets/characters/char_0817.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 79,
+    "col": 0
+  },
+  {
+    "id": "char_0818",
+    "file": "assets/characters/char_0818.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 79,
+    "col": 1
+  },
+  {
+    "id": "char_0819",
+    "file": "assets/characters/char_0819.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 79,
+    "col": 2
+  },
+  {
+    "id": "char_0820",
+    "file": "assets/characters/char_0820.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 79,
+    "col": 3
+  },
+  {
+    "id": "char_0821",
+    "file": "assets/characters/char_0821.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 79,
+    "col": 4
+  },
+  {
+    "id": "char_0822",
+    "file": "assets/characters/char_0822.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 79,
+    "col": 5
+  },
+  {
+    "id": "char_0823",
+    "file": "assets/characters/char_0823.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 79,
+    "col": 6
+  },
+  {
+    "id": "char_0824",
+    "file": "assets/characters/char_0824.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 79,
+    "col": 7
+  },
+  {
+    "id": "char_0825",
+    "file": "assets/characters/char_0825.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 79,
+    "col": 8
+  },
+  {
+    "id": "char_0826",
+    "file": "assets/characters/char_0826.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 79,
+    "col": 9
+  },
+  {
+    "id": "char_0827",
+    "file": "assets/characters/char_0827.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 79,
+    "col": 10
+  },
+  {
+    "id": "char_0828",
+    "file": "assets/characters/char_0828.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 79,
+    "col": 11
+  },
+  {
+    "id": "char_0829",
+    "file": "assets/characters/char_0829.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 80,
+    "col": 0
+  },
+  {
+    "id": "char_0830",
+    "file": "assets/characters/char_0830.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 80,
+    "col": 1
+  },
+  {
+    "id": "char_0831",
+    "file": "assets/characters/char_0831.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 80,
+    "col": 2
+  },
+  {
+    "id": "char_0832",
+    "file": "assets/characters/char_0832.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 80,
+    "col": 3
+  },
+  {
+    "id": "char_0833",
+    "file": "assets/characters/char_0833.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 80,
+    "col": 4
+  },
+  {
+    "id": "char_0834",
+    "file": "assets/characters/char_0834.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 80,
+    "col": 5
+  },
+  {
+    "id": "char_0835",
+    "file": "assets/characters/char_0835.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 80,
+    "col": 6
+  },
+  {
+    "id": "char_0836",
+    "file": "assets/characters/char_0836.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 80,
+    "col": 7
+  },
+  {
+    "id": "char_0837",
+    "file": "assets/characters/char_0837.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 80,
+    "col": 8
+  },
+  {
+    "id": "char_0838",
+    "file": "assets/characters/char_0838.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 80,
+    "col": 9
+  },
+  {
+    "id": "char_0839",
+    "file": "assets/characters/char_0839.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 80,
+    "col": 10
+  },
+  {
+    "id": "char_0840",
+    "file": "assets/characters/char_0840.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 80,
+    "col": 11
+  },
+  {
+    "id": "char_0841",
+    "file": "assets/characters/char_0841.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 81,
+    "col": 0
+  },
+  {
+    "id": "char_0842",
+    "file": "assets/characters/char_0842.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 81,
+    "col": 1
+  },
+  {
+    "id": "char_0843",
+    "file": "assets/characters/char_0843.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 81,
+    "col": 2
+  },
+  {
+    "id": "char_0844",
+    "file": "assets/characters/char_0844.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 81,
+    "col": 3
+  },
+  {
+    "id": "char_0845",
+    "file": "assets/characters/char_0845.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 82,
+    "col": 0
+  },
+  {
+    "id": "char_0846",
+    "file": "assets/characters/char_0846.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 82,
+    "col": 1
+  },
+  {
+    "id": "char_0847",
+    "file": "assets/characters/char_0847.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 82,
+    "col": 2
+  },
+  {
+    "id": "char_0848",
+    "file": "assets/characters/char_0848.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 82,
+    "col": 3
+  },
+  {
+    "id": "char_0849",
+    "file": "assets/characters/char_0849.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 82,
+    "col": 4
+  },
+  {
+    "id": "char_0850",
+    "file": "assets/characters/char_0850.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 82,
+    "col": 5
+  },
+  {
+    "id": "char_0851",
+    "file": "assets/characters/char_0851.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 82,
+    "col": 6
+  },
+  {
+    "id": "char_0852",
+    "file": "assets/characters/char_0852.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 82,
+    "col": 7
+  },
+  {
+    "id": "char_0853",
+    "file": "assets/characters/char_0853.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 82,
+    "col": 8
+  },
+  {
+    "id": "char_0854",
+    "file": "assets/characters/char_0854.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 82,
+    "col": 9
+  },
+  {
+    "id": "char_0855",
+    "file": "assets/characters/char_0855.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 82,
+    "col": 10
+  },
+  {
+    "id": "char_0856",
+    "file": "assets/characters/char_0856.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 82,
+    "col": 11
+  },
+  {
+    "id": "char_0857",
+    "file": "assets/characters/char_0857.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 83,
+    "col": 0
+  },
+  {
+    "id": "char_0858",
+    "file": "assets/characters/char_0858.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 83,
+    "col": 1
+  },
+  {
+    "id": "char_0859",
+    "file": "assets/characters/char_0859.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 83,
+    "col": 2
+  },
+  {
+    "id": "char_0860",
+    "file": "assets/characters/char_0860.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 83,
+    "col": 3
+  },
+  {
+    "id": "char_0861",
+    "file": "assets/characters/char_0861.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 83,
+    "col": 4
+  },
+  {
+    "id": "char_0862",
+    "file": "assets/characters/char_0862.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 83,
+    "col": 5
+  },
+  {
+    "id": "char_0863",
+    "file": "assets/characters/char_0863.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 83,
+    "col": 6
+  },
+  {
+    "id": "char_0864",
+    "file": "assets/characters/char_0864.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 83,
+    "col": 7
+  },
+  {
+    "id": "char_0865",
+    "file": "assets/characters/char_0865.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 83,
+    "col": 8
+  },
+  {
+    "id": "char_0866",
+    "file": "assets/characters/char_0866.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 83,
+    "col": 9
+  },
+  {
+    "id": "char_0867",
+    "file": "assets/characters/char_0867.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 83,
+    "col": 10
+  },
+  {
+    "id": "char_0868",
+    "file": "assets/characters/char_0868.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 83,
+    "col": 11
+  },
+  {
+    "id": "char_0869",
+    "file": "assets/characters/char_0869.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 84,
+    "col": 0
+  },
+  {
+    "id": "char_0870",
+    "file": "assets/characters/char_0870.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 84,
+    "col": 1
+  },
+  {
+    "id": "char_0871",
+    "file": "assets/characters/char_0871.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 84,
+    "col": 2
+  },
+  {
+    "id": "char_0872",
+    "file": "assets/characters/char_0872.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 84,
+    "col": 3
+  },
+  {
+    "id": "char_0873",
+    "file": "assets/characters/char_0873.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 84,
+    "col": 4
+  },
+  {
+    "id": "char_0874",
+    "file": "assets/characters/char_0874.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 84,
+    "col": 5
+  },
+  {
+    "id": "char_0875",
+    "file": "assets/characters/char_0875.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 84,
+    "col": 6
+  },
+  {
+    "id": "char_0876",
+    "file": "assets/characters/char_0876.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 84,
+    "col": 7
+  },
+  {
+    "id": "char_0877",
+    "file": "assets/characters/char_0877.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 84,
+    "col": 8
+  },
+  {
+    "id": "char_0878",
+    "file": "assets/characters/char_0878.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 84,
+    "col": 9
+  },
+  {
+    "id": "char_0879",
+    "file": "assets/characters/char_0879.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 84,
+    "col": 10
+  },
+  {
+    "id": "char_0880",
+    "file": "assets/characters/char_0880.png",
+    "category": "character",
+    "w": 16,
+    "h": 24,
+    "row": 84,
+    "col": 11
+  },
+  {
+    "id": "poke_0000",
+    "file": "assets/pokemon/poke_0000.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0001",
+    "file": "assets/pokemon/poke_0001.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0002",
+    "file": "assets/pokemon/poke_0002.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0003",
+    "file": "assets/pokemon/poke_0003.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0004",
+    "file": "assets/pokemon/poke_0004.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0005",
+    "file": "assets/pokemon/poke_0005.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0006",
+    "file": "assets/pokemon/poke_0006.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0007",
+    "file": "assets/pokemon/poke_0007.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0008",
+    "file": "assets/pokemon/poke_0008.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0009",
+    "file": "assets/pokemon/poke_0009.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0010",
+    "file": "assets/pokemon/poke_0010.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0011",
+    "file": "assets/pokemon/poke_0011.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0012",
+    "file": "assets/pokemon/poke_0012.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0013",
+    "file": "assets/pokemon/poke_0013.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0014",
+    "file": "assets/pokemon/poke_0014.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0015",
+    "file": "assets/pokemon/poke_0015.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0016",
+    "file": "assets/pokemon/poke_0016.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0017",
+    "file": "assets/pokemon/poke_0017.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0018",
+    "file": "assets/pokemon/poke_0018.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0019",
+    "file": "assets/pokemon/poke_0019.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0020",
+    "file": "assets/pokemon/poke_0020.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0021",
+    "file": "assets/pokemon/poke_0021.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0022",
+    "file": "assets/pokemon/poke_0022.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0023",
+    "file": "assets/pokemon/poke_0023.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0024",
+    "file": "assets/pokemon/poke_0024.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0025",
+    "file": "assets/pokemon/poke_0025.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0026",
+    "file": "assets/pokemon/poke_0026.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0027",
+    "file": "assets/pokemon/poke_0027.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0028",
+    "file": "assets/pokemon/poke_0028.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0029",
+    "file": "assets/pokemon/poke_0029.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0030",
+    "file": "assets/pokemon/poke_0030.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0031",
+    "file": "assets/pokemon/poke_0031.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0032",
+    "file": "assets/pokemon/poke_0032.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0033",
+    "file": "assets/pokemon/poke_0033.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0034",
+    "file": "assets/pokemon/poke_0034.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0035",
+    "file": "assets/pokemon/poke_0035.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0036",
+    "file": "assets/pokemon/poke_0036.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0037",
+    "file": "assets/pokemon/poke_0037.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0038",
+    "file": "assets/pokemon/poke_0038.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0039",
+    "file": "assets/pokemon/poke_0039.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0040",
+    "file": "assets/pokemon/poke_0040.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0041",
+    "file": "assets/pokemon/poke_0041.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0042",
+    "file": "assets/pokemon/poke_0042.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0043",
+    "file": "assets/pokemon/poke_0043.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0044",
+    "file": "assets/pokemon/poke_0044.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0045",
+    "file": "assets/pokemon/poke_0045.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0046",
+    "file": "assets/pokemon/poke_0046.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0047",
+    "file": "assets/pokemon/poke_0047.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0048",
+    "file": "assets/pokemon/poke_0048.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0049",
+    "file": "assets/pokemon/poke_0049.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0050",
+    "file": "assets/pokemon/poke_0050.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0051",
+    "file": "assets/pokemon/poke_0051.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0052",
+    "file": "assets/pokemon/poke_0052.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0053",
+    "file": "assets/pokemon/poke_0053.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0054",
+    "file": "assets/pokemon/poke_0054.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0055",
+    "file": "assets/pokemon/poke_0055.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0056",
+    "file": "assets/pokemon/poke_0056.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0057",
+    "file": "assets/pokemon/poke_0057.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0058",
+    "file": "assets/pokemon/poke_0058.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0059",
+    "file": "assets/pokemon/poke_0059.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0060",
+    "file": "assets/pokemon/poke_0060.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0061",
+    "file": "assets/pokemon/poke_0061.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0062",
+    "file": "assets/pokemon/poke_0062.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0063",
+    "file": "assets/pokemon/poke_0063.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0064",
+    "file": "assets/pokemon/poke_0064.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0065",
+    "file": "assets/pokemon/poke_0065.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0066",
+    "file": "assets/pokemon/poke_0066.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0067",
+    "file": "assets/pokemon/poke_0067.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0068",
+    "file": "assets/pokemon/poke_0068.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0069",
+    "file": "assets/pokemon/poke_0069.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0070",
+    "file": "assets/pokemon/poke_0070.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0071",
+    "file": "assets/pokemon/poke_0071.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0072",
+    "file": "assets/pokemon/poke_0072.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0073",
+    "file": "assets/pokemon/poke_0073.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0074",
+    "file": "assets/pokemon/poke_0074.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0075",
+    "file": "assets/pokemon/poke_0075.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0076",
+    "file": "assets/pokemon/poke_0076.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0077",
+    "file": "assets/pokemon/poke_0077.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0078",
+    "file": "assets/pokemon/poke_0078.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0079",
+    "file": "assets/pokemon/poke_0079.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0080",
+    "file": "assets/pokemon/poke_0080.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0081",
+    "file": "assets/pokemon/poke_0081.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0082",
+    "file": "assets/pokemon/poke_0082.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0083",
+    "file": "assets/pokemon/poke_0083.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0084",
+    "file": "assets/pokemon/poke_0084.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0085",
+    "file": "assets/pokemon/poke_0085.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0086",
+    "file": "assets/pokemon/poke_0086.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0087",
+    "file": "assets/pokemon/poke_0087.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0088",
+    "file": "assets/pokemon/poke_0088.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0089",
+    "file": "assets/pokemon/poke_0089.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0090",
+    "file": "assets/pokemon/poke_0090.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0091",
+    "file": "assets/pokemon/poke_0091.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0092",
+    "file": "assets/pokemon/poke_0092.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0093",
+    "file": "assets/pokemon/poke_0093.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0094",
+    "file": "assets/pokemon/poke_0094.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0095",
+    "file": "assets/pokemon/poke_0095.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0096",
+    "file": "assets/pokemon/poke_0096.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0097",
+    "file": "assets/pokemon/poke_0097.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0098",
+    "file": "assets/pokemon/poke_0098.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0099",
+    "file": "assets/pokemon/poke_0099.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0100",
+    "file": "assets/pokemon/poke_0100.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0101",
+    "file": "assets/pokemon/poke_0101.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0102",
+    "file": "assets/pokemon/poke_0102.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0103",
+    "file": "assets/pokemon/poke_0103.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0104",
+    "file": "assets/pokemon/poke_0104.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0105",
+    "file": "assets/pokemon/poke_0105.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0106",
+    "file": "assets/pokemon/poke_0106.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0107",
+    "file": "assets/pokemon/poke_0107.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0108",
+    "file": "assets/pokemon/poke_0108.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0109",
+    "file": "assets/pokemon/poke_0109.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0110",
+    "file": "assets/pokemon/poke_0110.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0111",
+    "file": "assets/pokemon/poke_0111.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0112",
+    "file": "assets/pokemon/poke_0112.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0113",
+    "file": "assets/pokemon/poke_0113.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0114",
+    "file": "assets/pokemon/poke_0114.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "poke_0115",
+    "file": "assets/pokemon/poke_0115.png",
+    "category": "pokemon",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0000",
+    "file": "assets/misc/misc_0000.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0001",
+    "file": "assets/misc/misc_0001.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0002",
+    "file": "assets/misc/misc_0002.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0003",
+    "file": "assets/misc/misc_0003.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0004",
+    "file": "assets/misc/misc_0004.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0005",
+    "file": "assets/misc/misc_0005.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0006",
+    "file": "assets/misc/misc_0006.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0007",
+    "file": "assets/misc/misc_0007.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0008",
+    "file": "assets/misc/misc_0008.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0009",
+    "file": "assets/misc/misc_0009.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0010",
+    "file": "assets/misc/misc_0010.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0011",
+    "file": "assets/misc/misc_0011.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0012",
+    "file": "assets/misc/misc_0012.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0013",
+    "file": "assets/misc/misc_0013.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0014",
+    "file": "assets/misc/misc_0014.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0015",
+    "file": "assets/misc/misc_0015.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0016",
+    "file": "assets/misc/misc_0016.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0017",
+    "file": "assets/misc/misc_0017.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0018",
+    "file": "assets/misc/misc_0018.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0019",
+    "file": "assets/misc/misc_0019.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0020",
+    "file": "assets/misc/misc_0020.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0021",
+    "file": "assets/misc/misc_0021.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0022",
+    "file": "assets/misc/misc_0022.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0023",
+    "file": "assets/misc/misc_0023.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0024",
+    "file": "assets/misc/misc_0024.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0025",
+    "file": "assets/misc/misc_0025.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0026",
+    "file": "assets/misc/misc_0026.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0027",
+    "file": "assets/misc/misc_0027.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0028",
+    "file": "assets/misc/misc_0028.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0029",
+    "file": "assets/misc/misc_0029.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0030",
+    "file": "assets/misc/misc_0030.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0031",
+    "file": "assets/misc/misc_0031.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0032",
+    "file": "assets/misc/misc_0032.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0033",
+    "file": "assets/misc/misc_0033.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0034",
+    "file": "assets/misc/misc_0034.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0035",
+    "file": "assets/misc/misc_0035.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0036",
+    "file": "assets/misc/misc_0036.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0037",
+    "file": "assets/misc/misc_0037.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0038",
+    "file": "assets/misc/misc_0038.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0039",
+    "file": "assets/misc/misc_0039.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0040",
+    "file": "assets/misc/misc_0040.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0041",
+    "file": "assets/misc/misc_0041.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0042",
+    "file": "assets/misc/misc_0042.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0043",
+    "file": "assets/misc/misc_0043.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0044",
+    "file": "assets/misc/misc_0044.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0045",
+    "file": "assets/misc/misc_0045.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0046",
+    "file": "assets/misc/misc_0046.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0047",
+    "file": "assets/misc/misc_0047.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0048",
+    "file": "assets/misc/misc_0048.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0049",
+    "file": "assets/misc/misc_0049.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0050",
+    "file": "assets/misc/misc_0050.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0051",
+    "file": "assets/misc/misc_0051.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0052",
+    "file": "assets/misc/misc_0052.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0053",
+    "file": "assets/misc/misc_0053.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0054",
+    "file": "assets/misc/misc_0054.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0055",
+    "file": "assets/misc/misc_0055.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0056",
+    "file": "assets/misc/misc_0056.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0057",
+    "file": "assets/misc/misc_0057.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0058",
+    "file": "assets/misc/misc_0058.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0059",
+    "file": "assets/misc/misc_0059.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0060",
+    "file": "assets/misc/misc_0060.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0061",
+    "file": "assets/misc/misc_0061.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0062",
+    "file": "assets/misc/misc_0062.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0063",
+    "file": "assets/misc/misc_0063.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0064",
+    "file": "assets/misc/misc_0064.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0065",
+    "file": "assets/misc/misc_0065.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0066",
+    "file": "assets/misc/misc_0066.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0067",
+    "file": "assets/misc/misc_0067.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0068",
+    "file": "assets/misc/misc_0068.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0069",
+    "file": "assets/misc/misc_0069.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0070",
+    "file": "assets/misc/misc_0070.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0071",
+    "file": "assets/misc/misc_0071.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0072",
+    "file": "assets/misc/misc_0072.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0073",
+    "file": "assets/misc/misc_0073.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0074",
+    "file": "assets/misc/misc_0074.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0075",
+    "file": "assets/misc/misc_0075.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0076",
+    "file": "assets/misc/misc_0076.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0077",
+    "file": "assets/misc/misc_0077.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0078",
+    "file": "assets/misc/misc_0078.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0079",
+    "file": "assets/misc/misc_0079.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0080",
+    "file": "assets/misc/misc_0080.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0081",
+    "file": "assets/misc/misc_0081.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0082",
+    "file": "assets/misc/misc_0082.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0083",
+    "file": "assets/misc/misc_0083.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0084",
+    "file": "assets/misc/misc_0084.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0085",
+    "file": "assets/misc/misc_0085.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0086",
+    "file": "assets/misc/misc_0086.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0087",
+    "file": "assets/misc/misc_0087.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0088",
+    "file": "assets/misc/misc_0088.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0089",
+    "file": "assets/misc/misc_0089.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0090",
+    "file": "assets/misc/misc_0090.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0091",
+    "file": "assets/misc/misc_0091.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0092",
+    "file": "assets/misc/misc_0092.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0093",
+    "file": "assets/misc/misc_0093.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0094",
+    "file": "assets/misc/misc_0094.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0095",
+    "file": "assets/misc/misc_0095.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0096",
+    "file": "assets/misc/misc_0096.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0097",
+    "file": "assets/misc/misc_0097.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0098",
+    "file": "assets/misc/misc_0098.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0099",
+    "file": "assets/misc/misc_0099.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0100",
+    "file": "assets/misc/misc_0100.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0101",
+    "file": "assets/misc/misc_0101.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0102",
+    "file": "assets/misc/misc_0102.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0103",
+    "file": "assets/misc/misc_0103.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0104",
+    "file": "assets/misc/misc_0104.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0105",
+    "file": "assets/misc/misc_0105.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0106",
+    "file": "assets/misc/misc_0106.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0107",
+    "file": "assets/misc/misc_0107.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0108",
+    "file": "assets/misc/misc_0108.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0109",
+    "file": "assets/misc/misc_0109.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0110",
+    "file": "assets/misc/misc_0110.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0111",
+    "file": "assets/misc/misc_0111.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0112",
+    "file": "assets/misc/misc_0112.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0113",
+    "file": "assets/misc/misc_0113.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0114",
+    "file": "assets/misc/misc_0114.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0115",
+    "file": "assets/misc/misc_0115.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0116",
+    "file": "assets/misc/misc_0116.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0117",
+    "file": "assets/misc/misc_0117.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0118",
+    "file": "assets/misc/misc_0118.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0119",
+    "file": "assets/misc/misc_0119.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0120",
+    "file": "assets/misc/misc_0120.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0121",
+    "file": "assets/misc/misc_0121.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0122",
+    "file": "assets/misc/misc_0122.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0123",
+    "file": "assets/misc/misc_0123.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0124",
+    "file": "assets/misc/misc_0124.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0125",
+    "file": "assets/misc/misc_0125.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0126",
+    "file": "assets/misc/misc_0126.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0127",
+    "file": "assets/misc/misc_0127.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0128",
+    "file": "assets/misc/misc_0128.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0129",
+    "file": "assets/misc/misc_0129.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0130",
+    "file": "assets/misc/misc_0130.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0131",
+    "file": "assets/misc/misc_0131.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0132",
+    "file": "assets/misc/misc_0132.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0133",
+    "file": "assets/misc/misc_0133.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0134",
+    "file": "assets/misc/misc_0134.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0135",
+    "file": "assets/misc/misc_0135.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0136",
+    "file": "assets/misc/misc_0136.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0137",
+    "file": "assets/misc/misc_0137.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0138",
+    "file": "assets/misc/misc_0138.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0139",
+    "file": "assets/misc/misc_0139.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0140",
+    "file": "assets/misc/misc_0140.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0141",
+    "file": "assets/misc/misc_0141.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0142",
+    "file": "assets/misc/misc_0142.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0143",
+    "file": "assets/misc/misc_0143.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0144",
+    "file": "assets/misc/misc_0144.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0145",
+    "file": "assets/misc/misc_0145.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0146",
+    "file": "assets/misc/misc_0146.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0147",
+    "file": "assets/misc/misc_0147.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0148",
+    "file": "assets/misc/misc_0148.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0149",
+    "file": "assets/misc/misc_0149.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0150",
+    "file": "assets/misc/misc_0150.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0151",
+    "file": "assets/misc/misc_0151.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  },
+  {
+    "id": "misc_0152",
+    "file": "assets/misc/misc_0152.png",
+    "category": "misc",
+    "w": 16,
+    "h": 24
+  }
+]
