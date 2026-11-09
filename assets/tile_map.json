@@ -1,0 +1,86 @@
+{
+  "0": {
+    "name": "Grass",
+    "sprite": "assets/misc/misc_0013.png",
+    "solid": false,
+    "color": "#5a9e3c"
+  },
+  "1": {
+    "name": "Path",
+    "sprite": "assets/misc/misc_0032.png",
+    "solid": false,
+    "color": "#c8b87c"
+  },
+  "2": {
+    "name": "Tree",
+    "sprite": "assets/misc/misc_0012.png",
+    "solid": true,
+    "color": "#2e7a1e"
+  },
+  "3": {
+    "name": "Water",
+    "sprite": "assets/misc/misc_0035.png",
+    "solid": true,
+    "color": "#3c78c0"
+  },
+  "4": {
+    "name": "Flowers",
+    "sprite": "assets/misc/misc_0009.png",
+    "solid": false,
+    "color": "#7ec85a"
+  },
+  "5": {
+    "name": "Wall",
+    "sprite": "assets/misc/misc_0010.png",
+    "solid": true,
+    "color": "#8a7055"
+  },
+  "6": {
+    "name": "Door",
+    "sprite": "assets/misc/misc_0002.png",
+    "solid": false,
+    "color": "#b87440"
+  },
+  "7": {
+    "name": "Floor",
+    "sprite": "assets/misc/misc_0033.png",
+    "solid": false,
+    "color": "#d4b87c"
+  },
+  "8": {
+    "name": "Counter",
+    "sprite": "assets/misc/misc_0005.png",
+    "solid": true,
+    "color": "#7a5a35"
+  },
+  "9": {
+    "name": "Tall Grass",
+    "sprite": "assets/misc/misc_0014.png",
+    "solid": false,
+    "color": "#3a8e28"
+  },
+  "10": {
+    "name": "Rock",
+    "sprite": "assets/misc/misc_0021.png",
+    "solid": true,
+    "color": "#9a9a7a"
+  },
+  "11": {
+    "name": "Ledge",
+    "sprite": "assets/misc/misc_0015.png",
+    "solid": false,
+    "color": "#6a9e3c"
+  },
+  "12": {
+    "name": "Sign",
+    "sprite": "assets/misc/misc_0004.png",
+    "solid": false,
+    "color": "#c8903c"
+  },
+  "13": {
+    "name": "Stairs",
+    "sprite": "assets/misc/misc_0038.png",
+    "solid": false,
+    "color": "#b8a870"
+  }
+}
